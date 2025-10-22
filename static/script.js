@@ -627,7 +627,7 @@ function buildHexagramForAI(result, rec) {
         changeList: Array.isArray(result.changeList) ? result.changeList : [],
     };
 }
-const API_BASE = (location.port === '8001') ? '' : 'http://localhost:8001';
+const API_BASE = '';
 async function triggerAI(question, result, rec) {
     try {
         // 展示AI区域与加载状态
