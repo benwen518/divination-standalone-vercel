@@ -1,0 +1,7513 @@
+{
+  "1": {
+    "name": "乾",
+    "judgement": "乾，元亨，利贞。天行健，君子以自强不息。",
+    "image": "天势运行不息，象征刚健之德与创造之力。",
+    "lines": [
+      "初九：潜龙勿用。",
+      "九二：见龙在田，利见大人。",
+      "九三：君子终日乾乾，夕惕若厉，无咎。",
+      "九四：或跃在渊，无咎。",
+      "九五：飞龙在天，利见大人。",
+      "上九：亢龙有悔。"
+    ],
+    "id": 1,
+    "pinyin": "qián",
+    "alias": [
+      "天卦",
+      "纯阳卦",
+      "乾为天",
+      "天天卦",
+      "创造卦",
+      "刚健卦"
+    ],
+    "trigrams": {
+      "upper": "乾",
+      "lower": "乾",
+      "upper_symbol": "☰",
+      "lower_symbol": "☰"
+    },
+    "relations": {
+      "inverse": "坤为地",
+      "complement": "乾为天",
+      "nuclear": "乾为天"
+    },
+    "five_elements": {
+      "upper": "金",
+      "lower": "金",
+      "overall": "金"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "运势极佳，事业蒸蒸日上，宜积极进取",
+      "career": "事业运旺盛，领导能力突出，宜主动出击",
+      "wealth": "财运亨通，投资获利，正财偏财皆旺",
+      "relationship": "感情稳定，夫妻和睦，单身者易遇良缘",
+      "health": "身体健康，精力充沛，注意不要过度劳累",
+      "advice": "天行健，君子以自强不息。保持积极进取的心态，但要避免过于刚强",
+      "suitable": [
+        "创业",
+        "求职",
+        "投资",
+        "结婚",
+        "搬迁"
+      ],
+      "avoid": [
+        "消极等待",
+        "过度冒险",
+        "独断专行"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E4%B9%BE",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "秋冬之交",
+      "month": "十月",
+      "time": "戌时(19-21点)",
+      "direction": "西北",
+      "climate": "干燥清冷"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "乾",
+      "lower_trigram": "乾",
+      "upper_element": "金",
+      "lower_element": "金",
+      "primary_element": "金",
+      "secondary_element": "金",
+      "element_interaction": "金气纯正，力量集中",
+      "element_details": {
+        "primary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "适合创业、领导团队、制定战略规划，展现领导力和创新精神",
+      "career": "职场上宜主动出击，争取晋升机会，发挥管理才能",
+      "investment": "适合长期投资、股票投资，但需注意风险控制",
+      "relationships": "在感情中要学会包容，避免过于强势，平等相处",
+      "education": "适合学习管理学、领导力课程，提升综合素质",
+      "health": "注意心血管健康，适度运动，避免过度劳累",
+      "lifestyle": "保持积极向上的生活态度，但要劳逸结合"
+    }
+  },
+  "2": {
+    "name": "坤",
+    "judgement": "坤，元亨，利牝马之贞。君子以厚德载物。",
+    "image": "地势坤，厚载万物，顺承而成。",
+    "lines": [
+      "初六：履霜，坚冰至。",
+      "六二：直方大，不习无不利。",
+      "六三：含章可贞，或从王事，无成有终。",
+      "六四：括囊，无咎无誉。",
+      "六五：黄裳，元吉。",
+      "上六：龙战于野，其血玄黄。"
+    ],
+    "id": 2,
+    "pinyin": "kūn",
+    "alias": [
+      "地卦",
+      "纯阴卦",
+      "坤为地",
+      "地地卦",
+      "顺从卦",
+      "柔顺卦"
+    ],
+    "trigrams": {
+      "upper": "坤",
+      "lower": "坤",
+      "upper_symbol": "☷",
+      "lower_symbol": "☷"
+    },
+    "relations": {
+      "inverse": "乾为天",
+      "complement": "坤为地",
+      "nuclear": "坤为地"
+    },
+    "five_elements": {
+      "upper": "土",
+      "lower": "土",
+      "overall": "土"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中吉",
+      "fortune": "运势平稳，宜以柔克刚，顺势而为",
+      "career": "事业稳步发展，宜团队合作，不宜独断专行",
+      "wealth": "财运平稳，宜保守理财，不宜大额投资",
+      "relationship": "感情和谐，宜包容理解，家庭和睦",
+      "health": "身体状况良好，注意脾胃保养",
+      "advice": "地势坤，君子以厚德载物。保持谦逊包容的态度，以德服人",
+      "suitable": [
+        "合作",
+        "储蓄",
+        "养生",
+        "学习",
+        "置业"
+      ],
+      "avoid": [
+        "急躁冒进",
+        "争强好胜",
+        "投机取巧"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%9D%A4",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "夏秋之交",
+      "month": "八月",
+      "time": "申时(15-17点)",
+      "direction": "西南",
+      "climate": "温润厚重"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "坤",
+      "lower_trigram": "坤",
+      "upper_element": "土",
+      "lower_element": "土",
+      "primary_element": "土",
+      "secondary_element": "土",
+      "element_interaction": "土气纯正，力量集中",
+      "element_details": {
+        "primary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "适合服务业、教育行业，以包容和耐心取胜",
+      "career": "职场上宜配合他人，发挥团队协作精神",
+      "investment": "适合稳健投资、房地产投资，追求长期稳定收益",
+      "relationships": "在感情中要主动关怀，营造温馨和谐的氛围",
+      "education": "适合学习人文社科、心理学等课程",
+      "health": "注意脾胃健康，规律饮食，保持心情愉悦",
+      "lifestyle": "追求稳定平和的生活方式，重视家庭和谐"
+    }
+  },
+  "3": {
+    "name": "屯",
+    "judgement": "屯，元亨，利贞。勿用有攸往，利建侯。",
+    "image": "云雷屯，象征草创维艰，宜经纶筹划、立基定制。",
+    "lines": [
+      "初九：磐桓；利居贞；利建侯。",
+      "六二：屯如邅如，乘马班如。匪寇婚媾。女子贞不字，十年乃字。",
+      "六三：即鹿无虞，惟入于林中，君子几不如舍，往吝。",
+      "六四：乘马班如，求婚媾。往吉，无不利。",
+      "九五：屯其膏，小贞吉，大贞凶。",
+      "上六：乘马班如，泣血涟如。"
+    ],
+    "id": 3,
+    "pinyin": "zhūn",
+    "alias": [
+      "水雷屯",
+      "屯积卦",
+      "初生卦",
+      "艰难卦",
+      "创始卦"
+    ],
+    "trigrams": {
+      "upper": "坎",
+      "lower": "震",
+      "upper_symbol": "☵",
+      "lower_symbol": "☳"
+    },
+    "relations": {
+      "inverse": "火风鼎",
+      "complement": "雷水解",
+      "nuclear": "山地剥"
+    },
+    "five_elements": {
+      "upper": "水",
+      "lower": "木",
+      "overall": "水"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "小凶",
+      "fortune": "初期困难重重，需要耐心等待时机",
+      "career": "事业起步艰难，宜稳扎稳打，不宜急于求成",
+      "wealth": "财运不佳，支出大于收入，宜节俭度日",
+      "relationship": "感情波折较多，需要更多沟通理解",
+      "health": "身体较弱，注意休息调养",
+      "advice": "万事开头难，需要坚持不懈的努力。困难是暂时的，曙光在前方",
+      "suitable": [
+        "学习",
+        "积累",
+        "养精蓄锐",
+        "寻求帮助"
+      ],
+      "avoid": [
+        "急于求成",
+        "大额投资",
+        "重大决策"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%B1%AF",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春季",
+      "month": "二月",
+      "time": "寅时(3-5点)",
+      "direction": "东北",
+      "climate": "雷雨初动"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "坎",
+      "lower_trigram": "震",
+      "upper_element": "水",
+      "lower_element": "木",
+      "primary_element": "水",
+      "secondary_element": "木",
+      "element_interaction": "水生木，上下相生，和谐发展",
+      "element_details": {
+        "primary": {
+          "nature": "滋润、寒凉、向下、智慧",
+          "season": "冬季",
+          "direction": "北方",
+          "color": "黑色、蓝色",
+          "organ": "肾、膀胱",
+          "emotion": "恐惧、惊慌",
+          "virtue": "智",
+          "generates": "木",
+          "destroys": "火",
+          "generated_by": "金",
+          "destroyed_by": "土",
+          "characteristics": "主滋润、寒凉，具有向下、收藏的特性",
+          "applications": "适合思考、储蓄、休养、积累能量"
+        },
+        "secondary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "创业初期会遇到困难，需要坚持和耐心",
+      "career": "职场新人阶段，要虚心学习，积累经验",
+      "investment": "投资需谨慎，先小额试水，积累经验",
+      "relationships": "感情处于萌芽期，需要时间培养和发展",
+      "education": "学习新知识时会有困难，但坚持就能突破",
+      "health": "身体处于调整期，注意休息和营养补充",
+      "lifestyle": "生活中遇到挑战时要保持乐观，寻求帮助"
+    }
+  },
+  "4": {
+    "name": "蒙",
+    "judgement": "蒙，亨。匪我求童蒙，童蒙求我。初筮告，再三渎，渎则不告。利贞。",
+    "image": "山下出泉为蒙。君子以果行育德，启蒙而不溺爱。",
+    "lines": [
+      "初六：发蒙，利用刑人，用说桎梏，以往吝。",
+      "九二：包蒙，吉。纳妇吉，子克家。",
+      "六三：勿用取女，见金夫，不有躬，无攸利。",
+      "六四：困蒙，吝。",
+      "六五：童蒙，吉。",
+      "上九：击蒙，不利为寇，利御寇。"
+    ],
+    "id": 4,
+    "pinyin": "méng",
+    "alias": [
+      "山水蒙",
+      "启蒙卦",
+      "教育卦",
+      "幼稚卦",
+      "求知卦"
+    ],
+    "trigrams": {
+      "upper": "艮",
+      "lower": "坎",
+      "upper_symbol": "☶",
+      "lower_symbol": "☵"
+    },
+    "relations": {
+      "inverse": "泽火革",
+      "complement": "水山蹇",
+      "nuclear": "地雷复"
+    },
+    "five_elements": {
+      "upper": "土",
+      "lower": "水",
+      "overall": "土"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中平",
+      "fortune": "处于学习成长期，宜虚心求教",
+      "career": "事业需要学习提升，宜寻求导师指导",
+      "wealth": "财运一般，宜通过学习提升赚钱能力",
+      "relationship": "感情需要磨合，宜相互学习成长",
+      "health": "身体健康，注意用脑过度",
+      "advice": "山下出泉，蒙。君子以果行育德。保持学习的心态，不耻下问",
+      "suitable": [
+        "学习",
+        "培训",
+        "请教",
+        "读书",
+        "修身"
+      ],
+      "avoid": [
+        "自以为是",
+        "固执己见",
+        "急于表现"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E8%92%99",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春季",
+      "month": "三月",
+      "time": "卯时(5-7点)",
+      "direction": "东",
+      "climate": "山泉清澈"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "艮",
+      "lower_trigram": "坎",
+      "upper_element": "土",
+      "lower_element": "水",
+      "primary_element": "土",
+      "secondary_element": "水",
+      "element_interaction": "土克水，上制下，需要平衡",
+      "element_details": {
+        "primary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        },
+        "secondary": {
+          "nature": "滋润、寒凉、向下、智慧",
+          "season": "冬季",
+          "direction": "北方",
+          "color": "黑色、蓝色",
+          "organ": "肾、膀胱",
+          "emotion": "恐惧、惊慌",
+          "virtue": "智",
+          "generates": "木",
+          "destroys": "火",
+          "generated_by": "金",
+          "destroyed_by": "土",
+          "characteristics": "主滋润、寒凉，具有向下、收藏的特性",
+          "applications": "适合思考、储蓄、休养、积累能量"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "适合教育培训行业，传授知识和经验",
+      "career": "职场上要保持学习心态，接受指导和培训",
+      "investment": "投资前要充分学习和了解，避免盲目跟风",
+      "relationships": "感情中要坦诚相待，相互学习和成长",
+      "education": "正是学习的好时机，要虚心求教",
+      "health": "注意用脑过度，适当休息，保护视力",
+      "lifestyle": "保持好奇心和学习热情，不断充实自己"
+    }
+  },
+  "5": {
+    "name": "需",
+    "judgement": "需，有孚，光亨，贞吉。利涉大川。",
+    "image": "云上于天为需。君子以饮食宴乐，以待时机。",
+    "lines": [
+      "初九：需于郊，利用恒，无咎。",
+      "九二：需于沙，小有言，终吉。",
+      "九三：需于泥，致寇至。",
+      "六四：需于血，出自穴。",
+      "九五：需于酒食，贞吉。",
+      "上六：入于穴，有不速之客三人来，敬之，终吉。"
+    ],
+    "id": 5,
+    "pinyin": "xū",
+    "alias": [
+      "水天需",
+      "等待卦",
+      "需求卦",
+      "耐心卦",
+      "期待卦"
+    ],
+    "trigrams": {
+      "upper": "坎",
+      "lower": "乾",
+      "upper_symbol": "☵",
+      "lower_symbol": "☰"
+    },
+    "relations": {
+      "inverse": "火地晋",
+      "complement": "天水讼",
+      "nuclear": "火泽睽"
+    },
+    "five_elements": {
+      "upper": "水",
+      "lower": "金",
+      "overall": "水"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中吉",
+      "fortune": "需要耐心等待，时机未到不宜强求",
+      "career": "事业发展需要时间，宜做好准备工作",
+      "wealth": "财运渐好，但需要耐心等待收获",
+      "relationship": "感情需要时间培养，不宜急于求成",
+      "health": "身体状况良好，注意饮食调养",
+      "advice": "云上于天，需。君子以饮食宴乐。耐心等待是智慧，准备充分迎接机遇",
+      "suitable": [
+        "等待",
+        "准备",
+        "学习",
+        "养生",
+        "储备"
+      ],
+      "avoid": [
+        "急躁冒进",
+        "强求",
+        "投机"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E9%9C%80",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "冬季",
+      "month": "十一月",
+      "time": "亥时(21-23点)",
+      "direction": "北",
+      "climate": "云雨待降"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "坎",
+      "lower_trigram": "乾",
+      "upper_element": "水",
+      "lower_element": "金",
+      "primary_element": "水",
+      "secondary_element": "金",
+      "element_interaction": "金生水，下助上，基础稳固",
+      "element_details": {
+        "primary": {
+          "nature": "滋润、寒凉、向下、智慧",
+          "season": "冬季",
+          "direction": "北方",
+          "color": "黑色、蓝色",
+          "organ": "肾、膀胱",
+          "emotion": "恐惧、惊慌",
+          "virtue": "智",
+          "generates": "木",
+          "destroys": "火",
+          "generated_by": "金",
+          "destroyed_by": "土",
+          "characteristics": "主滋润、寒凉，具有向下、收藏的特性",
+          "applications": "适合思考、储蓄、休养、积累能量"
+        },
+        "secondary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商机尚未成熟，需要耐心等待时机",
+      "career": "职场发展需要时间，不要急于求成",
+      "investment": "市场时机未到，可以观望和准备资金",
+      "relationships": "感情需要时间发展，不要急于表白",
+      "education": "学习要循序渐进，打好基础",
+      "health": "身体需要调养，注意饮食和作息",
+      "lifestyle": "学会等待和准备，机会总会到来"
+    }
+  },
+  "6": {
+    "name": "讼",
+    "judgement": "讼，有孚窒惕，中吉，终凶。利见大人，不利涉大川。",
+    "image": "天与水违行为讼。君子以作事谋始，防微杜渐。",
+    "lines": [
+      "初六：不永所事，小有言，终吉。",
+      "九二：不克讼，归而逋，其邑人三百户，无眚。",
+      "六三：食旧德，贞厉，终吉。或从王事，无成。",
+      "九四：不克讼，复即命，渝，安贞，吉。",
+      "九五：讼，元吉。",
+      "上九：或锡之鞶带，终朝三褫之。"
+    ],
+    "id": 6,
+    "pinyin": "sòng",
+    "alias": [
+      "天水讼",
+      "争讼卦",
+      "诉讼卦",
+      "争执卦",
+      "纠纷卦"
+    ],
+    "trigrams": {
+      "upper": "乾",
+      "lower": "坎",
+      "upper_symbol": "☰",
+      "lower_symbol": "☵"
+    },
+    "relations": {
+      "inverse": "地火明夷",
+      "complement": "水天需",
+      "nuclear": "风火家人"
+    },
+    "five_elements": {
+      "upper": "金",
+      "lower": "水",
+      "overall": "金"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "小凶",
+      "fortune": "容易发生争执纠纷，宜化解矛盾",
+      "career": "工作中易有分歧，宜沟通协调",
+      "wealth": "财运不佳，易有经济纠纷",
+      "relationship": "感情易有争吵，需要冷静处理",
+      "health": "情绪波动大，注意心理调节",
+      "advice": "天与水违行，讼。君子以作事谋始。预防胜于治疗，和为贵",
+      "suitable": [
+        "调解",
+        "妥协",
+        "反思",
+        "寻求帮助"
+      ],
+      "avoid": [
+        "争执",
+        "诉讼",
+        "对抗",
+        "意气用事"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/六十四卦#%E8%AE%BC",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "秋季",
+      "month": "九月",
+      "time": "酉时(17-19点)",
+      "direction": "西",
+      "climate": "天水相争"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "乾",
+      "lower_trigram": "坎",
+      "upper_element": "金",
+      "lower_element": "水",
+      "primary_element": "金",
+      "secondary_element": "水",
+      "element_interaction": "金生水，上下相生，和谐发展",
+      "element_details": {
+        "primary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        },
+        "secondary": {
+          "nature": "滋润、寒凉、向下、智慧",
+          "season": "冬季",
+          "direction": "北方",
+          "color": "黑色、蓝色",
+          "organ": "肾、膀胱",
+          "emotion": "恐惧、惊慌",
+          "virtue": "智",
+          "generates": "木",
+          "destroys": "火",
+          "generated_by": "金",
+          "destroyed_by": "土",
+          "characteristics": "主滋润、寒凉，具有向下、收藏的特性",
+          "applications": "适合思考、储蓄、休养、积累能量"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业纠纷可能出现，需要法律途径解决",
+      "career": "职场可能有冲突，要理性处理人际关系",
+      "investment": "投资争议需要专业建议，避免情绪化决策",
+      "relationships": "感情中可能有误解，需要沟通和理解",
+      "education": "学习中遇到争议要寻求权威解答",
+      "health": "注意情绪管理，避免因争执影响健康",
+      "lifestyle": "遇到争议时要冷静理性，寻求公正解决"
+    }
+  },
+  "7": {
+    "name": "师",
+    "judgement": "师，贞，丈人吉，无咎。用兵之道，贵在纪律与统帅得人。",
+    "image": "地中有水为师。君子以容众而整旅。",
+    "lines": [
+      "初六：师出以律，否臧凶。",
+      "九二：在师中吉，无咎。王三锡命。",
+      "六三：师或舆尸，凶。",
+      "六四：师左次，无咎。",
+      "六五：田有禽，利执言。无咎。",
+      "上六：大君有命，开国承家，小人勿用。"
+    ],
+    "id": 7,
+    "pinyin": "shī",
+    "alias": [
+      "地水师",
+      "军师卦",
+      "领导卦",
+      "统帅卦",
+      "众人卦"
+    ],
+    "trigrams": {
+      "upper": "坤",
+      "lower": "坎",
+      "upper_symbol": "☷",
+      "lower_symbol": "☵"
+    },
+    "relations": {
+      "inverse": "天火同人",
+      "complement": "水地比",
+      "nuclear": "地雷复"
+    },
+    "five_elements": {
+      "upper": "土",
+      "lower": "水",
+      "overall": "土"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中吉",
+      "fortune": "需要团队合作，发挥领导才能",
+      "career": "事业宜团队作战，发挥组织能力",
+      "wealth": "财运通过合作获得，众人拾柴火焰高",
+      "relationship": "感情需要包容理解，家庭和睦",
+      "health": "身体健康，注意劳逸结合",
+      "advice": "地中有水，师。君子以容民畜众。团结就是力量，以德服人",
+      "suitable": [
+        "合作",
+        "领导",
+        "组织",
+        "团建",
+        "管理"
+      ],
+      "avoid": [
+        "独断专行",
+        "内部分裂",
+        "滥用权力"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%B8%88",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "夏季",
+      "month": "六月",
+      "time": "午时(11-13点)",
+      "direction": "南",
+      "climate": "地水聚集"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "坤",
+      "lower_trigram": "坎",
+      "upper_element": "土",
+      "lower_element": "水",
+      "primary_element": "土",
+      "secondary_element": "水",
+      "element_interaction": "土克水，上制下，需要平衡",
+      "element_details": {
+        "primary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        },
+        "secondary": {
+          "nature": "滋润、寒凉、向下、智慧",
+          "season": "冬季",
+          "direction": "北方",
+          "color": "黑色、蓝色",
+          "organ": "肾、膀胱",
+          "emotion": "恐惧、惊慌",
+          "virtue": "智",
+          "generates": "木",
+          "destroys": "火",
+          "generated_by": "金",
+          "destroyed_by": "土",
+          "characteristics": "主滋润、寒凉，具有向下、收藏的特性",
+          "applications": "适合思考、储蓄、休养、积累能量"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "适合团队管理，需要统一指挥和协调",
+      "career": "职场上要发挥组织协调能力，带领团队",
+      "investment": "适合集体投资、基金投资，分散风险",
+      "relationships": "感情中要承担更多责任，照顾对方",
+      "education": "适合学习管理学、组织行为学",
+      "health": "注意压力管理，适当放松身心",
+      "lifestyle": "承担更多社会责任，发挥领导作用"
+    }
+  },
+  "8": {
+    "name": "比",
+    "judgement": "比，吉。原筮，元永贞，无咎。不宁方来，后夫凶。",
+    "image": "地上有水为比。先王以建万国，亲诸侯。",
+    "lines": [
+      "初六：有孚比之，无咎。有孚盈缶，终来有它，吉。",
+      "六二：比之自内，贞吉。",
+      "六三：比之匪人。",
+      "六四：外比之，贞吉。",
+      "九五：显比，王用三驱，失前禽。邑人不诫，吉。",
+      "上六：比之无首，凶。"
+    ],
+    "id": 8,
+    "pinyin": "bǐ",
+    "alias": [
+      "水地比",
+      "亲比卦",
+      "团结卦",
+      "合作卦",
+      "亲近卦"
+    ],
+    "trigrams": {
+      "upper": "坎",
+      "lower": "坤",
+      "upper_symbol": "☵",
+      "lower_symbol": "☷"
+    },
+    "relations": {
+      "inverse": "火天大有",
+      "complement": "地水师",
+      "nuclear": "山地剥"
+    },
+    "five_elements": {
+      "upper": "水",
+      "lower": "土",
+      "overall": "水"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "人际关系和谐，贵人相助运强",
+      "career": "事业得到他人支持，合作愉快",
+      "wealth": "财运通过人脉获得，合作共赢",
+      "relationship": "感情甜蜜，朋友众多，人缘极佳",
+      "health": "身心愉悦，健康状况良好",
+      "advice": "水在地上，比。先王以建万国，亲诸侯。亲近贤人，远离小人",
+      "suitable": [
+        "社交",
+        "合作",
+        "结盟",
+        "交友",
+        "联谊"
+      ],
+      "avoid": [
+        "孤立",
+        "猜疑",
+        "背叛",
+        "势利"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E6%AF%94",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "冬季",
+      "month": "十二月",
+      "time": "子时(23-1点)",
+      "direction": "北",
+      "climate": "水水相亲"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "坎",
+      "lower_trigram": "坤",
+      "upper_element": "水",
+      "lower_element": "土",
+      "primary_element": "水",
+      "secondary_element": "土",
+      "element_interaction": "土克水，下制上，变化之象",
+      "element_details": {
+        "primary": {
+          "nature": "滋润、寒凉、向下、智慧",
+          "season": "冬季",
+          "direction": "北方",
+          "color": "黑色、蓝色",
+          "organ": "肾、膀胱",
+          "emotion": "恐惧、惊慌",
+          "virtue": "智",
+          "generates": "木",
+          "destroys": "火",
+          "generated_by": "金",
+          "destroyed_by": "土",
+          "characteristics": "主滋润、寒凉，具有向下、收藏的特性",
+          "applications": "适合思考、储蓄、休养、积累能量"
+        },
+        "secondary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "适合合作经营，互利共赢",
+      "career": "职场上要加强合作，建立良好人际关系",
+      "investment": "适合合伙投资，共同承担风险",
+      "relationships": "感情和睦，相互支持和理解",
+      "education": "适合小组学习，互相帮助提高",
+      "health": "身心和谐，保持良好的社交关系",
+      "lifestyle": "重视友谊和合作，营造和谐氛围"
+    }
+  },
+  "9": {
+    "name": "小畜",
+    "judgement": "小畜，亨。密云不雨，自我西郊。",
+    "image": "风行天上为小畜。君子以懿文德，以蓄其德。",
+    "lines": [
+      "初九：复自道，何其咎？吉。",
+      "九二：牵复，吉。",
+      "九三：舆说辐，夫妻反目。",
+      "六四：有孚，血去惕出，无咎。",
+      "九五：有孚挛如，富以其邻。",
+      "上九：既雨既处，尚德载，妇贞厉。月几望，君子征凶。"
+    ],
+    "id": 9,
+    "pinyin": "xiǎo xù",
+    "alias": [
+      "风天小畜",
+      "小积蓄卦",
+      "小储备卦",
+      "渐进卦"
+    ],
+    "trigrams": {
+      "upper": "巽",
+      "lower": "乾",
+      "upper_symbol": "☴",
+      "lower_symbol": "☰"
+    },
+    "relations": {
+      "inverse": "雷地豫",
+      "complement": "天风姤",
+      "nuclear": "火泽睽"
+    },
+    "five_elements": {
+      "upper": "木",
+      "lower": "金",
+      "overall": "木"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中平",
+      "fortune": "小有积蓄，但力量有限，宜循序渐进",
+      "career": "事业小有成就，但发展受限",
+      "wealth": "财运一般，收入稳定但增长缓慢",
+      "relationship": "感情平淡，需要更多努力经营",
+      "health": "身体无大碍，注意小毛病",
+      "advice": "风行天上，小畜。君子以懿文德。积小成大，厚积薄发",
+      "suitable": [
+        "储蓄",
+        "学习",
+        "积累",
+        "修身",
+        "养德"
+      ],
+      "avoid": [
+        "急于求成",
+        "好高骛远",
+        "挥霍浪费"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E7%95%9C",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "秋季",
+      "month": "九月",
+      "time": "酉时(17-19点)",
+      "direction": "西",
+      "climate": "风天小聚"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "巽",
+      "lower_trigram": "乾",
+      "upper_element": "木",
+      "lower_element": "金",
+      "primary_element": "木",
+      "secondary_element": "金",
+      "element_interaction": "金克木，下制上，变化之象",
+      "element_details": {
+        "primary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        },
+        "secondary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "小规模经营，积少成多",
+      "career": "职场上要脚踏实地，积累小的成就",
+      "investment": "适合小额投资，定期定额投资",
+      "relationships": "感情需要细心经营，注重细节",
+      "education": "学习要持之以恒，积累知识",
+      "health": "注意日常保健，预防小病",
+      "lifestyle": "从小事做起，养成良好习惯"
+    }
+  },
+  "10": {
+    "name": "履",
+    "judgement": "履虎尾，不咥人，亨。",
+    "image": "上天下泽为履。君子以辨上下，定民志。",
+    "lines": [
+      "初九：素履，往无咎。",
+      "九二：履道坦坦，幽人贞吉。",
+      "六三：眇能视，跛能履。履虎尾，咥人，凶。武人为于大君。",
+      "九四：履虎尾，愬愬，终吉。",
+      "九五：夬履，贞厉。",
+      "上九：视履，考祥，其旋元吉。"
+    ],
+    "id": 10,
+    "pinyin": "lǚ",
+    "alias": [
+      "天泽履",
+      "践履卦",
+      "行走卦",
+      "礼仪卦",
+      "谨慎卦"
+    ],
+    "trigrams": {
+      "upper": "乾",
+      "lower": "兑",
+      "upper_symbol": "☰",
+      "lower_symbol": "☱"
+    },
+    "relations": {
+      "inverse": "地山谦",
+      "complement": "泽天夬",
+      "nuclear": "风火家人"
+    },
+    "five_elements": {
+      "upper": "金",
+      "lower": "金",
+      "overall": "金"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中吉",
+      "fortune": "行事需要谨慎，但前景光明",
+      "career": "事业稳步前进，宜遵守规则",
+      "wealth": "财运平稳，通过正当途径获得",
+      "relationship": "感情需要用心经营，以诚待人",
+      "health": "身体健康，注意足部保养",
+      "advice": "上天下泽，履。君子以辨上下，定民志。脚踏实地，一步一个脚印",
+      "suitable": [
+        "践行",
+        "实干",
+        "守规",
+        "诚信",
+        "稳进"
+      ],
+      "avoid": [
+        "投机取巧",
+        "违规操作",
+        "轻浮浮躁"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%B1%A5",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "秋季",
+      "month": "十月",
+      "time": "戌时(19-21点)",
+      "direction": "西北",
+      "climate": "天泽相履"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "乾",
+      "lower_trigram": "兑",
+      "upper_element": "金",
+      "lower_element": "金",
+      "primary_element": "金",
+      "secondary_element": "金",
+      "element_interaction": "金气纯正，力量集中",
+      "element_details": {
+        "primary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业行为要合规合法，诚信经营",
+      "career": "职场上要遵守规则，谨慎行事",
+      "investment": "投资要合规，选择正当渠道",
+      "relationships": "感情中要坦诚相待，遵守承诺",
+      "education": "学习要严谨认真，遵守学术规范",
+      "health": "注意安全，避免意外伤害",
+      "lifestyle": "做人做事要有原则，谨慎小心"
+    }
+  },
+  "11": {
+    "name": "泰",
+    "judgement": "泰，小往大来，吉亨。",
+    "image": "天地交为泰。君子以财成天地之道，辅相天地之宜，以左右民。",
+    "lines": [
+      "初九：拔茅茹，以其汇，征吉。",
+      "九二：包荒，用冯河，不遐遗，朋亡，得尚于中行。",
+      "九三：无平不陂，无往不复，艰贞无咎。勿恤其孚，于食有福。",
+      "六四：翩翩，不富以其邻，不戒以孚。",
+      "六五：帝乙归妹，以祉元吉。",
+      "上六：城复于隍，勿用师。自邑告命，贞吝。"
+    ],
+    "id": 11,
+    "pinyin": "tài",
+    "alias": [
+      "地天泰",
+      "通泰卦",
+      "和谐卦",
+      "繁荣卦",
+      "吉祥卦"
+    ],
+    "trigrams": {
+      "upper": "坤",
+      "lower": "乾",
+      "upper_symbol": "☷",
+      "lower_symbol": "☰"
+    },
+    "relations": {
+      "inverse": "天地否",
+      "complement": "天地否",
+      "nuclear": "雷泽归妹"
+    },
+    "five_elements": {
+      "upper": "土",
+      "lower": "金",
+      "overall": "土"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "运势极佳，万事亨通，天时地利人和",
+      "career": "事业蒸蒸日上，升职加薪在望",
+      "wealth": "财运亨通，投资获利，财源广进",
+      "relationship": "感情美满，家庭和睦，人际和谐",
+      "health": "身体健康，精神饱满，活力充沛",
+      "advice": "天地交，泰。后以财成天地之道，辅相天地之宜。盛极而衰，居安思危",
+      "suitable": [
+        "投资",
+        "创业",
+        "结婚",
+        "搬迁",
+        "庆祝"
+      ],
+      "avoid": [
+        "骄傲自满",
+        "挥霍无度",
+        "忽视风险"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E6%B3%B0",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春季",
+      "month": "正月",
+      "time": "丑时(1-3点)",
+      "direction": "东北",
+      "climate": "地天交泰"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "坤",
+      "lower_trigram": "乾",
+      "upper_element": "土",
+      "lower_element": "金",
+      "primary_element": "土",
+      "secondary_element": "金",
+      "element_interaction": "土生金，上下相生，和谐发展",
+      "element_details": {
+        "primary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        },
+        "secondary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业环境良好，适合扩张发展",
+      "career": "职场运势佳，容易获得成功",
+      "investment": "投资时机成熟，可以积极布局",
+      "relationships": "感情甜蜜，关系和谐稳定",
+      "education": "学习效果好，容易取得进步",
+      "health": "身体健康，精神状态佳",
+      "lifestyle": "生活顺遂，享受美好时光"
+    }
+  },
+  "12": {
+    "name": "否",
+    "judgement": "否之匪人，不利君子贞，大往小来。",
+    "image": "天地不交为否。君子以俭德辟难，不可荣以禄。",
+    "lines": [
+      "初六：拔茅茹，以其汇，贞吉亨。",
+      "六二：包承。小人吉，大人否。亨。",
+      "六三：包羞。",
+      "九四：有命无咎，畴离祉。",
+      "九五：休否，大人吉。其亡其亡，系于苞桑。",
+      "上九：倾否，先否后喜。"
+    ],
+    "id": 12,
+    "pinyin": "pǐ",
+    "alias": [
+      "天地否",
+      "闭塞卦",
+      "阻滞卦",
+      "困顿卦",
+      "不通卦"
+    ],
+    "trigrams": {
+      "upper": "乾",
+      "lower": "坤",
+      "upper_symbol": "☰",
+      "lower_symbol": "☷"
+    },
+    "relations": {
+      "inverse": "地天泰",
+      "complement": "地天泰",
+      "nuclear": "风山渐"
+    },
+    "five_elements": {
+      "upper": "金",
+      "lower": "土",
+      "overall": "金"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大凶",
+      "fortune": "运势低迷，诸事不顺，宜韬光养晦",
+      "career": "事业受阻，小人当道，宜低调行事",
+      "wealth": "财运不佳，投资亏损，宜保守理财",
+      "relationship": "感情冷淡，人际关系紧张",
+      "health": "身体欠佳，情绪低落，需要调养",
+      "advice": "天地不交，否。君子以俭德辟难，不可荣以禄。否极泰来，坚持就是胜利",
+      "suitable": [
+        "反思",
+        "修身",
+        "储蓄",
+        "养生",
+        "等待"
+      ],
+      "avoid": [
+        "冒险",
+        "投资",
+        "争执",
+        "重大决策"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%90%A6",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "秋季",
+      "month": "七月",
+      "time": "未时(13-15点)",
+      "direction": "西南",
+      "climate": "天地不交"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "乾",
+      "lower_trigram": "坤",
+      "upper_element": "金",
+      "lower_element": "土",
+      "primary_element": "金",
+      "secondary_element": "土",
+      "element_interaction": "土生金，下助上，基础稳固",
+      "element_details": {
+        "primary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        },
+        "secondary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业环境不佳，需要保守经营",
+      "career": "职场遇到阻碍，要耐心等待转机",
+      "investment": "投资环境不利，宜观望为主",
+      "relationships": "感情可能有隔阂，需要沟通",
+      "education": "学习遇到困难，要坚持不懈",
+      "health": "注意身体调养，避免过度劳累",
+      "lifestyle": "暂时的困难，要保持信心"
+    }
+  },
+  "13": {
+    "name": "同人",
+    "judgement": "同人于野，亨。利涉大川，利君子贞。",
+    "image": "天与火同人。君子以类族辨物，协同而不私党。",
+    "lines": [
+      "初九：同人于门，无咎。",
+      "六二：同人于宗，吝。",
+      "九三：伏戎于莽，升其高陵，三岁不兴。",
+      "九四：乘其墉，弗克攻，吉。",
+      "九五：同人，先号咷而后笑。大师克相遇。",
+      "上九：同人于郊，无悔。"
+    ],
+    "id": 13,
+    "pinyin": "tóng rén",
+    "alias": [
+      "天火同人",
+      "同心卦",
+      "团结卦",
+      "合作卦",
+      "友谊卦"
+    ],
+    "trigrams": {
+      "upper": "乾",
+      "lower": "离",
+      "upper_symbol": "☰",
+      "lower_symbol": "☲"
+    },
+    "relations": {
+      "inverse": "地水师",
+      "complement": "火天大有",
+      "nuclear": "天风姤"
+    },
+    "five_elements": {
+      "upper": "金",
+      "lower": "火",
+      "overall": "金"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "人际关系极佳，团结合作运强",
+      "career": "事业得到众人支持，团队协作顺利",
+      "wealth": "财运通过合作获得，众人拾柴火焰高",
+      "relationship": "感情和谐，朋友众多，社交活跃",
+      "health": "身心愉悦，健康状况良好",
+      "advice": "天与火，同人。君子以类族辨物。志同道合，携手共进",
+      "suitable": [
+        "合作",
+        "社交",
+        "团建",
+        "联盟",
+        "公益"
+      ],
+      "avoid": [
+        "孤立",
+        "排斥",
+        "偏见",
+        "小团体"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%90%8C%E4%BA%BA",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "夏季",
+      "month": "五月",
+      "time": "巳时(9-11点)",
+      "direction": "东南",
+      "climate": "天火同明"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "乾",
+      "lower_trigram": "离",
+      "upper_element": "金",
+      "lower_element": "火",
+      "primary_element": "金",
+      "secondary_element": "火",
+      "element_interaction": "火克金，下制上，变化之象",
+      "element_details": {
+        "primary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        },
+        "secondary": {
+          "nature": "炎热、向上、光明、礼貌",
+          "season": "夏季",
+          "direction": "南方",
+          "color": "红色、橙色",
+          "organ": "心、小肠",
+          "emotion": "喜悦、兴奋",
+          "virtue": "礼",
+          "generates": "土",
+          "destroys": "金",
+          "generated_by": "木",
+          "destroyed_by": "水",
+          "characteristics": "主炎热、向上，具有光明、温暖的特性",
+          "applications": "适合表达、展示、庆祝、热情投入的事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "适合公开透明的经营方式，建立品牌",
+      "career": "职场上要开诚布公，建立良好形象",
+      "investment": "适合公开市场投资，透明度高的项目",
+      "relationships": "感情要坦诚相待，公开关系",
+      "education": "适合公开学习，参与讨论交流",
+      "health": "保持开朗心态，多参与社交活动",
+      "lifestyle": "积极参与社会活动，扩大社交圈"
+    }
+  },
+  "14": {
+    "name": "大有",
+    "judgement": "大有，元亨。",
+    "image": "火在天上为大有。君子以遏恶扬善，顺天休命。",
+    "lines": [
+      "初九：无交害，匪咎；艰则无咎。",
+      "九二：大车以载，有攸往，无咎。",
+      "九三：公用亨于天子，小人弗克。",
+      "九四：匪其彭，无咎。",
+      "六五：厥孚交如，威如；吉。",
+      "上九：自天佑之，吉无不利。"
+    ],
+    "id": 14,
+    "pinyin": "dà yǒu",
+    "alias": [
+      "火天大有",
+      "大收获卦",
+      "丰收卦",
+      "富有卦",
+      "成功卦"
+    ],
+    "trigrams": {
+      "upper": "离",
+      "lower": "乾",
+      "upper_symbol": "☲",
+      "lower_symbol": "☰"
+    },
+    "relations": {
+      "inverse": "水地比",
+      "complement": "天火同人",
+      "nuclear": "泽天夬"
+    },
+    "five_elements": {
+      "upper": "火",
+      "lower": "金",
+      "overall": "火"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "运势极佳，财富丰盛，成就显著",
+      "career": "事业成功，地位显赫，收获丰厚",
+      "wealth": "财运极旺，投资获利，财富积累",
+      "relationship": "感情美满，家庭富足，人际和谐",
+      "health": "身体健康，精力充沛，生活质量高",
+      "advice": "火在天上，大有。君子以遏恶扬善，顺天休命。富而有德，回馈社会",
+      "suitable": [
+        "投资",
+        "扩张",
+        "慈善",
+        "享受",
+        "庆祝"
+      ],
+      "avoid": [
+        "骄傲自满",
+        "挥霍无度",
+        "忘恩负义"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%9C%89",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "夏季",
+      "month": "六月",
+      "time": "午时(11-13点)",
+      "direction": "南",
+      "climate": "火天大明"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "离",
+      "lower_trigram": "乾",
+      "upper_element": "火",
+      "lower_element": "金",
+      "primary_element": "火",
+      "secondary_element": "金",
+      "element_interaction": "火克金，上制下，需要平衡",
+      "element_details": {
+        "primary": {
+          "nature": "炎热、向上、光明、礼貌",
+          "season": "夏季",
+          "direction": "南方",
+          "color": "红色、橙色",
+          "organ": "心、小肠",
+          "emotion": "喜悦、兴奋",
+          "virtue": "礼",
+          "generates": "土",
+          "destroys": "金",
+          "generated_by": "木",
+          "destroyed_by": "水",
+          "characteristics": "主炎热、向上，具有光明、温暖的特性",
+          "applications": "适合表达、展示、庆祝、热情投入的事务"
+        },
+        "secondary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "事业有成，财富丰厚，但要谦逊",
+      "career": "职场成功，地位显赫，要懂得分享",
+      "investment": "投资收益丰厚，但要适度分散",
+      "relationships": "感情美满，但要避免骄傲",
+      "education": "学有所成，要继续深造",
+      "health": "身体健康，但要注意保养",
+      "lifestyle": "生活富足，要懂得感恩和回馈"
+    }
+  },
+  "15": {
+    "name": "谦",
+    "judgement": "谦，亨。君子有终。",
+    "image": "地中有山为谦。君子以裒多益寡，称物平施。",
+    "lines": [
+      "初六：谦谦君子，用涉大川，吉。",
+      "六二：鸣谦，贞吉。",
+      "九三：劳谦，君子有终，吉。",
+      "六四：无不利，撝谦。",
+      "六五：不富以其邻，利用侵伐，无不利。",
+      "上六：鸣谦，利用行师，征邑国。"
+    ],
+    "id": 15,
+    "pinyin": "qiān",
+    "alias": [
+      "地山谦",
+      "谦逊卦",
+      "谦虚卦",
+      "低调卦",
+      "退让卦"
+    ],
+    "trigrams": {
+      "upper": "坤",
+      "lower": "艮",
+      "upper_symbol": "☷",
+      "lower_symbol": "☶"
+    },
+    "relations": {
+      "inverse": "天泽履",
+      "complement": "山地剥",
+      "nuclear": "雷水解"
+    },
+    "five_elements": {
+      "upper": "土",
+      "lower": "土",
+      "overall": "土"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "谦逊有礼，德行高尚，受人敬重",
+      "career": "事业稳步发展，得到上司赏识",
+      "wealth": "财运平稳，通过品德获得财富",
+      "relationship": "感情和谐，人际关系极佳",
+      "health": "身心健康，内心平和",
+      "advice": "地中有山，谦。君子以裒多益寡，称物平施。谦受益，满招损",
+      "suitable": [
+        "学习",
+        "修身",
+        "助人",
+        "低调",
+        "积德"
+      ],
+      "avoid": [
+        "骄傲",
+        "炫耀",
+        "争功",
+        "自满"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/六十四卦#%E8%B0%A6",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "夏秋之交",
+      "month": "八月",
+      "time": "申时(15-17点)",
+      "direction": "西南",
+      "climate": "地山谦逊"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "坤",
+      "lower_trigram": "艮",
+      "upper_element": "土",
+      "lower_element": "土",
+      "primary_element": "土",
+      "secondary_element": "土",
+      "element_interaction": "土气纯正，力量集中",
+      "element_details": {
+        "primary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "以谦逊态度经营，赢得客户信任",
+      "career": "职场上要谦虚低调，获得同事认可",
+      "investment": "投资要谦逊谨慎，不贪不躁",
+      "relationships": "感情中要谦让包容，关系和谐",
+      "education": "学习要谦虚好学，不断进步",
+      "health": "保持平和心态，有益身心健康",
+      "lifestyle": "做人要谦逊有礼，赢得尊重"
+    }
+  },
+  "16": {
+    "name": "豫",
+    "judgement": "豫，利建侯行师。",
+    "image": "雷出地奋为豫。君子以先号咷而后笑，调畅人心。",
+    "lines": [
+      "初六：鸣豫，凶。",
+      "六二：介于石，不终日，贞吉。",
+      "六三：盱豫，悔；迟有悔。",
+      "九四：由豫，大有得。勿疑，朋盍簪。",
+      "六五：贞疾，恒不死。",
+      "上六：冥豫，成有渝，无咎。"
+    ],
+    "id": 16,
+    "pinyin": "yù",
+    "alias": [
+      "雷地豫",
+      "愉悦卦",
+      "快乐卦",
+      "预备卦",
+      "安乐卦"
+    ],
+    "trigrams": {
+      "upper": "震",
+      "lower": "坤",
+      "upper_symbol": "☳",
+      "lower_symbol": "☷"
+    },
+    "relations": {
+      "inverse": "风天小畜",
+      "complement": "地雷复",
+      "nuclear": "水山蹇"
+    },
+    "five_elements": {
+      "upper": "木",
+      "lower": "土",
+      "overall": "木"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中吉",
+      "fortune": "心情愉悦，生活安乐，但不宜过度享乐",
+      "career": "工作轻松愉快，但要保持进取心",
+      "wealth": "财运不错，但要注意理性消费",
+      "relationship": "感情甜蜜，家庭和睦，朋友众多",
+      "health": "身心愉悦，注意不要过度放纵",
+      "advice": "雷出地奋，豫。先王以作乐崇德，殷荐之上帝。适度享乐，不忘进取",
+      "suitable": [
+        "娱乐",
+        "休闲",
+        "庆祝",
+        "社交",
+        "旅游"
+      ],
+      "avoid": [
+        "过度享乐",
+        "懒惰",
+        "挥霍",
+        "沉迷"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E8%B1%AB",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春夏之交",
+      "month": "四月",
+      "time": "辰时(7-9点)",
+      "direction": "东南",
+      "climate": "雷地豫悦"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "震",
+      "lower_trigram": "坤",
+      "upper_element": "木",
+      "lower_element": "土",
+      "primary_element": "木",
+      "secondary_element": "土",
+      "element_interaction": "木克土，上制下，需要平衡",
+      "element_details": {
+        "primary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        },
+        "secondary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业氛围轻松愉快，适合娱乐产业",
+      "career": "职场环境和谐，工作愉快",
+      "investment": "投资心态轻松，但不要过于乐观",
+      "relationships": "感情甜蜜快乐，享受恋爱时光",
+      "education": "学习氛围好，寓教于乐",
+      "health": "心情愉悦，有利身体健康",
+      "lifestyle": "生活充满乐趣，但要适度"
+    }
+  },
+  "17": {
+    "name": "随",
+    "judgement": "随，元亨，利贞，无咎。",
+    "image": "泽中有雷为随。君子以向晦入宴息，动静合时。",
+    "lines": [
+      "初九：官有渝，贞吉；出门交有功。",
+      "六二：系小子，失丈夫。",
+      "六三：系丈夫，失小子。随有求得，利居贞。",
+      "九四：随有获，贞凶。有孚在道，以明，何咎？",
+      "九五：孚于嘉，吉。",
+      "上六：拘系之，乃从维之。王用亨于西山。"
+    ],
+    "id": 17,
+    "pinyin": "suí",
+    "alias": [
+      "泽雷随",
+      "跟随卦",
+      "顺应卦",
+      "追随卦",
+      "适应卦"
+    ],
+    "trigrams": {
+      "upper": "兑",
+      "lower": "震",
+      "upper_symbol": "☱",
+      "lower_symbol": "☳"
+    },
+    "relations": {
+      "inverse": "山风蛊",
+      "complement": "雷泽归妹",
+      "nuclear": "风山渐"
+    },
+    "five_elements": {
+      "upper": "金",
+      "lower": "木",
+      "overall": "金"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中吉",
+      "fortune": "顺应时势，跟随潮流，但要有自己的判断",
+      "career": "事业发展宜顺势而为，跟随领导",
+      "wealth": "财运跟随市场走势，宜灵活应变",
+      "relationship": "感情需要相互适应，求同存异",
+      "health": "身体状况跟随季节变化，注意调养",
+      "advice": "泽中有雷，随。君子以向晦入宴息。顺应自然，但要保持独立思考",
+      "suitable": [
+        "跟随",
+        "适应",
+        "学习",
+        "模仿",
+        "配合"
+      ],
+      "avoid": [
+        "盲从",
+        "失去自我",
+        "随波逐流"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/六十四卦#%E9%9A%8F",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "秋冬之交",
+      "month": "十月",
+      "time": "戌时(19-21点)",
+      "direction": "西北",
+      "climate": "泽雷随动"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "兑",
+      "lower_trigram": "震",
+      "upper_element": "金",
+      "lower_element": "木",
+      "primary_element": "金",
+      "secondary_element": "木",
+      "element_interaction": "金克木，上制下，需要平衡",
+      "element_details": {
+        "primary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        },
+        "secondary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业策略要灵活应变，跟随市场",
+      "career": "职场上要适应变化，跟随潮流",
+      "investment": "投资要顺势而为，灵活调整",
+      "relationships": "感情中要相互适应，共同成长",
+      "education": "学习要与时俱进，跟上时代",
+      "health": "生活作息要随季节调整",
+      "lifestyle": "保持开放心态，适应变化"
+    }
+  },
+  "18": {
+    "name": "蛊",
+    "judgement": "蛊，元亨。利涉大川。先甲三日，后甲三日。",
+    "image": "山下有风为蛊。君子以振民育德，革弊兴善。",
+    "lines": [
+      "初六：干父之蛊，有子，考无咎；厉，终吉。",
+      "九二：干母之蛊，不可贞。",
+      "九三：干父之蛊，小有悔，无大咎。",
+      "六四：裕父之蛊，往见吝。",
+      "六五：干父之蛊，用誉。",
+      "上九：不事王侯，高尚其事。"
+    ],
+    "id": 18,
+    "pinyin": "gǔ",
+    "alias": [
+      "山风蛊",
+      "蛊惑卦",
+      "腐败卦",
+      "整治卦",
+      "改革卦"
+    ],
+    "trigrams": {
+      "upper": "艮",
+      "lower": "巽",
+      "upper_symbol": "☶",
+      "lower_symbol": "☴"
+    },
+    "relations": {
+      "inverse": "泽雷随",
+      "complement": "风山渐",
+      "nuclear": "雷泽归妹"
+    },
+    "five_elements": {
+      "upper": "土",
+      "lower": "木",
+      "overall": "土"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中平",
+      "fortune": "需要整顿改革，清除弊端",
+      "career": "工作中需要改革创新，清除积弊",
+      "wealth": "财务需要整理，清除不良投资",
+      "relationship": "感情需要修复，解决问题",
+      "health": "身体需要调理，清除毒素",
+      "advice": "山下有风，蛊。君子以振民育德。革故鼎新，重新开始",
+      "suitable": [
+        "改革",
+        "整顿",
+        "清理",
+        "修复",
+        "重建"
+      ],
+      "avoid": [
+        "因循守旧",
+        "得过且过",
+        "逃避问题"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/六十四卦#%E8%9B%8A",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春季",
+      "month": "三月",
+      "time": "卯时(5-7点)",
+      "direction": "东",
+      "climate": "山风蛊惑"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "艮",
+      "lower_trigram": "巽",
+      "upper_element": "土",
+      "lower_element": "木",
+      "primary_element": "土",
+      "secondary_element": "木",
+      "element_interaction": "木克土，下制上，变化之象",
+      "element_details": {
+        "primary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        },
+        "secondary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "需要整顿改革，清除弊端",
+      "career": "职场需要改进工作方式，提高效率",
+      "investment": "投资组合需要调整，清理不良资产",
+      "relationships": "感情需要修复，解决问题",
+      "education": "学习方法需要改进，纠正错误",
+      "health": "身体需要调理，改善不良习惯",
+      "lifestyle": "生活需要整顿，建立新秩序"
+    }
+  },
+  "19": {
+    "name": "临",
+    "judgement": "临，元亨，利贞。至于八月有凶。",
+    "image": "地上有泽为临。君子以教思无穷，容保民无疆。",
+    "lines": [
+      "初九：咸临，贞吉。",
+      "九二：咸临，吉，无不利。",
+      "六三：甘临，无攸利。既忧之，无咎。",
+      "六四：至临，无咎。",
+      "六五：知临，大君之宜，吉。",
+      "上六：敦临，吉，无咎。"
+    ],
+    "id": 19,
+    "pinyin": "lín",
+    "alias": [
+      "地泽临",
+      "临近卦",
+      "监督卦",
+      "管理卦",
+      "领导卦"
+    ],
+    "trigrams": {
+      "upper": "坤",
+      "lower": "兑",
+      "upper_symbol": "☷",
+      "lower_symbol": "☱"
+    },
+    "relations": {
+      "inverse": "天山遁",
+      "complement": "泽地萃",
+      "nuclear": "地雷复"
+    },
+    "five_elements": {
+      "upper": "土",
+      "lower": "金",
+      "overall": "土"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "运势上升，地位提升，受人尊敬",
+      "career": "事业蒸蒸日上，有望升职",
+      "wealth": "财运渐旺，收入增加",
+      "relationship": "感情升温，人际关系改善",
+      "health": "身体健康，精神状态良好",
+      "advice": "地上有泽，临。君子以教思无穷，容保民无疆。居高临下，以德服人",
+      "suitable": [
+        "领导",
+        "管理",
+        "教育",
+        "指导",
+        "提升"
+      ],
+      "avoid": [
+        "高高在上",
+        "颐指气使",
+        "滥用权力"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/六十四卦#%E4%B8%B4",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "冬春之交",
+      "month": "十二月",
+      "time": "子时(23-1点)",
+      "direction": "北",
+      "climate": "地泽临近"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "坤",
+      "lower_trigram": "兑",
+      "upper_element": "土",
+      "lower_element": "金",
+      "primary_element": "土",
+      "secondary_element": "金",
+      "element_interaction": "土生金，上下相生，和谐发展",
+      "element_details": {
+        "primary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        },
+        "secondary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业机会来临，要积极把握",
+      "career": "职场机遇出现，要主动争取",
+      "investment": "投资时机到来，可以适度进入",
+      "relationships": "感情机会出现，要勇敢表达",
+      "education": "学习机会难得，要珍惜时光",
+      "health": "身体状况好转，要继续保持",
+      "lifestyle": "好运来临，要积极面对"
+    }
+  },
+  "20": {
+    "name": "观",
+    "judgement": "观，盥而不荐，有孚颙若。",
+    "image": "风行地上为观。君子以省方观民设教。",
+    "lines": [
+      "初六：童观，小人无咎；君子吝。",
+      "六二：窥观，利女贞。",
+      "六三：观我生，进退。",
+      "六四：观国之光，利用宾于王。",
+      "九五：观我生，君子无咎。",
+      "上九：观其生，君子无咎。"
+    ],
+    "id": 20,
+    "pinyin": "guān",
+    "alias": [
+      "风地观",
+      "观察卦",
+      "观看卦",
+      "审视卦",
+      "洞察卦"
+    ],
+    "trigrams": {
+      "upper": "巽",
+      "lower": "坤",
+      "upper_symbol": "☴",
+      "lower_symbol": "☷"
+    },
+    "relations": {
+      "inverse": "雷天大壮",
+      "complement": "地风升",
+      "nuclear": "山地剥"
+    },
+    "five_elements": {
+      "upper": "木",
+      "lower": "土",
+      "overall": "木"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中吉",
+      "fortune": "宜观察学习，积累经验，不宜急于行动",
+      "career": "事业需要观察市场，学习经验",
+      "wealth": "财运需要观察时机，谨慎投资",
+      "relationship": "感情需要观察了解，慢慢培养",
+      "health": "身体需要观察症状，及时调理",
+      "advice": "风行地上，观。先王以省方，观民设教。观察入微，见微知著",
+      "suitable": [
+        "观察",
+        "学习",
+        "研究",
+        "分析",
+        "等待"
+      ],
+      "avoid": [
+        "盲目行动",
+        "急于求成",
+        "主观臆断"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E8%A7%82",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "秋季",
+      "month": "九月",
+      "time": "酉时(17-19点)",
+      "direction": "西",
+      "climate": "风地观察"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "巽",
+      "lower_trigram": "坤",
+      "upper_element": "木",
+      "lower_element": "土",
+      "primary_element": "木",
+      "secondary_element": "土",
+      "element_interaction": "木克土，上制下，需要平衡",
+      "element_details": {
+        "primary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        },
+        "secondary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业决策前要仔细观察市场",
+      "career": "职场上要观察形势，谨慎行动",
+      "investment": "投资前要深入研究，理性分析",
+      "relationships": "感情中要观察对方，了解真心",
+      "education": "学习要善于观察，总结规律",
+      "health": "注意观察身体变化，及时调整",
+      "lifestyle": "保持观察力，洞察生活本质"
+    }
+  },
+  "21": {
+    "name": "噬嗑",
+    "judgement": "噬嗑，亨。利用狱。",
+    "image": "雷电噬嗑。君子以明罚敕法，正风肃纪。",
+    "lines": [
+      "初九：屦校灭趾，无咎。",
+      "六二：噬肤，灭鼻，无咎。",
+      "六三：噬腊肉，遇毒；小吝，无咎。",
+      "九四：噬干胏，得金矢。利艰贞，吉。",
+      "六五：噬干肉，得黄金。贞厉，无咎。",
+      "上九：何校灭耳，凶。"
+    ],
+    "id": 21,
+    "pinyin": "shì hé",
+    "alias": [
+      "火雷噬嗑",
+      "咬合卦",
+      "决断卦",
+      "执法卦",
+      "惩罚卦"
+    ],
+    "trigrams": {
+      "upper": "离",
+      "lower": "震",
+      "upper_symbol": "☲",
+      "lower_symbol": "☳"
+    },
+    "relations": {
+      "inverse": "水风井",
+      "complement": "雷火丰",
+      "nuclear": "水山蹇"
+    },
+    "five_elements": {
+      "upper": "火",
+      "lower": "木",
+      "overall": "火"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中吉",
+      "fortune": "需要果断决策，清除障碍",
+      "career": "工作中需要解决问题，排除阻碍",
+      "wealth": "财运需要突破瓶颈，清除障碍",
+      "relationship": "感情需要解决矛盾，消除隔阂",
+      "health": "身体需要治疗疾病，恢复健康",
+      "advice": "雷电噬嗑。先王以明罚敕法。公正执法，赏罚分明",
+      "suitable": [
+        "决断",
+        "执法",
+        "治疗",
+        "解决",
+        "突破"
+      ],
+      "avoid": [
+        "优柔寡断",
+        "姑息养奸",
+        "逃避问题"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%99%AC%E5%97%91",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "夏季",
+      "month": "六月",
+      "time": "午时(11-13点)",
+      "direction": "南",
+      "climate": "火雷噬合"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "离",
+      "lower_trigram": "震",
+      "upper_element": "火",
+      "lower_element": "木",
+      "primary_element": "火",
+      "secondary_element": "木",
+      "element_interaction": "木生火，下助上，基础稳固",
+      "element_details": {
+        "primary": {
+          "nature": "炎热、向上、光明、礼貌",
+          "season": "夏季",
+          "direction": "南方",
+          "color": "红色、橙色",
+          "organ": "心、小肠",
+          "emotion": "喜悦、兴奋",
+          "virtue": "礼",
+          "generates": "土",
+          "destroys": "金",
+          "generated_by": "木",
+          "destroyed_by": "水",
+          "characteristics": "主炎热、向上，具有光明、温暖的特性",
+          "applications": "适合表达、展示、庆祝、热情投入的事务"
+        },
+        "secondary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业障碍需要坚决清除",
+      "career": "职场问题要果断解决",
+      "investment": "投资障碍要勇敢突破",
+      "relationships": "感情问题要直面解决",
+      "education": "学习难点要努力攻克",
+      "health": "健康问题要积极治疗",
+      "lifestyle": "生活困难要勇敢面对"
+    }
+  },
+  "22": {
+    "name": "贲",
+    "judgement": "贲，亨。小利有攸往。",
+    "image": "山下有火为贲。君子以明庶政，无敢折狱。",
+    "lines": [
+      "初九：贲其趾，舍车而徒。",
+      "六二：贲其须。",
+      "九三：贲如濡如，永贞吉。",
+      "六四：贲如皤如，白马翰如；匪寇婚媾。",
+      "六五：贲于丘园，束帛戋戋；吝，终吉。",
+      "上九：白贲，无咎。"
+    ],
+    "id": 22,
+    "pinyin": "bì",
+    "alias": [
+      "山火贲",
+      "装饰卦",
+      "美化卦",
+      "文饰卦",
+      "修饰卦"
+    ],
+    "trigrams": {
+      "upper": "艮",
+      "lower": "离",
+      "upper_symbol": "☶",
+      "lower_symbol": "☲"
+    },
+    "relations": {
+      "inverse": "泽水困",
+      "complement": "火山旅",
+      "nuclear": "雷水解"
+    },
+    "five_elements": {
+      "upper": "土",
+      "lower": "火",
+      "overall": "土"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中吉",
+      "fortune": "注重外表修饰，但不可华而不实",
+      "career": "事业需要包装宣传，提升形象",
+      "wealth": "财运通过形象提升获得",
+      "relationship": "感情需要用心装扮，增加魅力",
+      "health": "身体健康，注重外表保养",
+      "advice": "山下有火，贲。君子以明庶政，无敢折狱。文质并重，内外兼修",
+      "suitable": [
+        "装饰",
+        "美化",
+        "包装",
+        "宣传",
+        "形象"
+      ],
+      "avoid": [
+        "华而不实",
+        "过度包装",
+        "本末倒置"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E8%B4%B2",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春夏之交",
+      "month": "四月",
+      "time": "辰时(7-9点)",
+      "direction": "东南",
+      "climate": "山火贲饰"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "艮",
+      "lower_trigram": "离",
+      "upper_element": "土",
+      "lower_element": "火",
+      "primary_element": "土",
+      "secondary_element": "火",
+      "element_interaction": "火生土，下助上，基础稳固",
+      "element_details": {
+        "primary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        },
+        "secondary": {
+          "nature": "炎热、向上、光明、礼貌",
+          "season": "夏季",
+          "direction": "南方",
+          "color": "红色、橙色",
+          "organ": "心、小肠",
+          "emotion": "喜悦、兴奋",
+          "virtue": "礼",
+          "generates": "土",
+          "destroys": "金",
+          "generated_by": "木",
+          "destroyed_by": "水",
+          "characteristics": "主炎热、向上，具有光明、温暖的特性",
+          "applications": "适合表达、展示、庆祝、热情投入的事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业形象要注重包装和美化",
+      "career": "职场形象很重要，要注重外表",
+      "investment": "投资要关注表面现象背后的实质",
+      "relationships": "感情需要浪漫和仪式感",
+      "education": "学习要注重形式和内容并重",
+      "health": "注重外在美，也要内在健康",
+      "lifestyle": "生活要有品味，追求美感"
+    }
+  },
+  "23": {
+    "name": "剥",
+    "judgement": "剥，不利有攸往。",
+    "image": "山附于地为剥。君子以厚下安宅。",
+    "lines": [
+      "初六：剥床以足，蔑贞凶。",
+      "六二：剥床以辨，蔑贞凶。",
+      "六三：剥之，无咎。",
+      "六四：剥床以肤，凶。",
+      "六五：贯鱼，以宫人宠，无不利。",
+      "上九：硕果不食，君子得舆，小人剥庐。"
+    ],
+    "id": 23,
+    "pinyin": "bō",
+    "alias": [
+      "山地剥",
+      "剥落卦",
+      "衰落卦",
+      "消减卦",
+      "破坏卦"
+    ],
+    "trigrams": {
+      "upper": "艮",
+      "lower": "坤",
+      "upper_symbol": "☶",
+      "lower_symbol": "☷"
+    },
+    "relations": {
+      "inverse": "泽天夬",
+      "complement": "地山谦",
+      "nuclear": "坤为地"
+    },
+    "five_elements": {
+      "upper": "土",
+      "lower": "土",
+      "overall": "土"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大凶",
+      "fortune": "运势衰落，诸事不顺，宜韬光养晦",
+      "career": "事业受挫，地位下降，宜低调行事",
+      "wealth": "财运不佳，损失较大，宜保守理财",
+      "relationship": "感情冷淡，人际关系恶化",
+      "health": "身体虚弱，免疫力下降",
+      "advice": "山附于地，剥。上以厚下安宅。剥极必复，坚持到底",
+      "suitable": [
+        "休息",
+        "养生",
+        "反思",
+        "储蓄",
+        "等待"
+      ],
+      "avoid": [
+        "冒险",
+        "投资",
+        "争执",
+        "重大决策"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/六十四卦#%E5%89%A5",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "秋季",
+      "month": "九月",
+      "time": "酉时(17-19点)",
+      "direction": "西",
+      "climate": "山地剥落"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "艮",
+      "lower_trigram": "坤",
+      "upper_element": "土",
+      "lower_element": "土",
+      "primary_element": "土",
+      "secondary_element": "土",
+      "element_interaction": "土气纯正，力量集中",
+      "element_details": {
+        "primary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业环境恶化，要保存实力",
+      "career": "职场不利，要低调行事",
+      "investment": "投资亏损，要及时止损",
+      "relationships": "感情受挫，要理性对待",
+      "education": "学习遇挫，要坚持基础",
+      "health": "身体虚弱，要注重调养",
+      "lifestyle": "困难时期，要保持希望"
+    }
+  },
+  "24": {
+    "name": "复",
+    "judgement": "复，亨。出入无疾，朋来无咎。反复其道，七日来复，利有攸往。",
+    "image": "雷在地中为复。先王以至日闭关，商旅不行，后不省方。",
+    "lines": [
+      "初九：不远复，无祗悔，元吉。",
+      "六二：休复，吉。",
+      "六三：频复，厉无咎。",
+      "六四：中行独复。",
+      "六五：敦复，无悔。",
+      "上六：迷复，凶，有灾眚。用行师，终有大败，以其国君凶。至于十年不克征。"
+    ],
+    "id": 24,
+    "pinyin": "fù",
+    "alias": [
+      "地雷复",
+      "复归卦",
+      "恢复卦",
+      "回归卦",
+      "重生卦"
+    ],
+    "trigrams": {
+      "upper": "坤",
+      "lower": "震",
+      "upper_symbol": "☷",
+      "lower_symbol": "☳"
+    },
+    "relations": {
+      "inverse": "天风姤",
+      "complement": "雷地豫",
+      "nuclear": "坤为地"
+    },
+    "five_elements": {
+      "upper": "土",
+      "lower": "木",
+      "overall": "土"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中吉",
+      "fortune": "运势开始回升，重新开始，充满希望",
+      "career": "事业开始复苏，新的机会出现",
+      "wealth": "财运逐渐好转，收入开始增加",
+      "relationship": "感情重新燃起，关系修复",
+      "health": "身体开始恢复，精神状态改善",
+      "advice": "雷在地中，复。先王以至日闭关，商旅不行。一阳来复，万象更新",
+      "suitable": [
+        "重新开始",
+        "恢复",
+        "修复",
+        "计划",
+        "希望"
+      ],
+      "avoid": [
+        "急于求成",
+        "重蹈覆辙",
+        "过度乐观"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%A4%8D",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "冬至",
+      "month": "十一月",
+      "time": "亥时(21-23点)",
+      "direction": "北",
+      "climate": "地雷复归"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "坤",
+      "lower_trigram": "震",
+      "upper_element": "土",
+      "lower_element": "木",
+      "primary_element": "土",
+      "secondary_element": "木",
+      "element_interaction": "木克土，下制上，变化之象",
+      "element_details": {
+        "primary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        },
+        "secondary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业开始复苏，可以重新布局",
+      "career": "职场运势回升，要把握机会",
+      "investment": "投资开始回暖，可以逐步进入",
+      "relationships": "感情重新开始，要珍惜机会",
+      "education": "学习重新起步，要打好基础",
+      "health": "身体开始恢复，要继续调养",
+      "lifestyle": "新的开始，要积极向上"
+    }
+  },
+  "25": {
+    "name": "无妄",
+    "judgement": "无妄，元亨，利贞。其匪正有眚，不利有攸往。",
+    "image": "天下雷行，物与无妄。先王以茂对时育万物。",
+    "lines": [
+      "初九：无妄，往吉。",
+      "六二：不耕获，不菑畬，则利有攸往。",
+      "六三：无妄之灾，或系之牛，行人之得，邑人之灾。",
+      "九四：可贞，无咎。",
+      "九五：无妄之疾，勿药有喜。",
+      "上九：无妄，行有眚，无攸利。"
+    ],
+    "id": 25,
+    "pinyin": "wú wàng",
+    "alias": [
+      "天雷无妄",
+      "无妄卦",
+      "真诚卦",
+      "自然卦",
+      "纯真卦"
+    ],
+    "trigrams": {
+      "upper": "乾",
+      "lower": "震",
+      "upper_symbol": "☰",
+      "lower_symbol": "☳"
+    },
+    "relations": {
+      "inverse": "地风升",
+      "complement": "雷天大壮",
+      "nuclear": "风山渐"
+    },
+    "five_elements": {
+      "upper": "金",
+      "lower": "木",
+      "overall": "金"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "心无妄念，行事正当，天道酬勤",
+      "career": "事业发展顺利，诚信经营",
+      "wealth": "财运通过正当途径获得",
+      "relationship": "感情真诚，关系纯真",
+      "health": "身心健康，自然和谐",
+      "advice": "天下雷行，物与无妄。先王以茂对时，育万物。顺应自然，真诚待人",
+      "suitable": [
+        "诚信",
+        "自然",
+        "正当",
+        "真诚",
+        "顺应"
+      ],
+      "avoid": [
+        "虚假",
+        "造作",
+        "投机",
+        "妄想"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E6%97%A0%E5%A6%84",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春季",
+      "month": "正月",
+      "time": "丑时(1-3点)",
+      "direction": "东北",
+      "climate": "天雷无妄"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "乾",
+      "lower_trigram": "震",
+      "upper_element": "金",
+      "lower_element": "木",
+      "primary_element": "金",
+      "secondary_element": "木",
+      "element_interaction": "金克木，上制下，需要平衡",
+      "element_details": {
+        "primary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        },
+        "secondary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业行为要诚实守信，不可投机",
+      "career": "职场上要踏实工作，不走捷径",
+      "investment": "投资要理性，不要投机取巧",
+      "relationships": "感情要真诚，不要虚假",
+      "education": "学习要扎实，不要急功近利",
+      "health": "保持自然状态，不要过度干预",
+      "lifestyle": "做人要真诚，顺其自然"
+    }
+  },
+  "26": {
+    "name": "大畜",
+    "judgement": "大畜，利贞。不家食吉。利涉大川。",
+    "image": "天在山中为大畜。君子以多识前言往行，以畜其德。",
+    "lines": [
+      "初九：有厉，利己。",
+      "九二：舆说輹。",
+      "九三：良马逐，利艰贞。曰闲舆卫，利有攸往。",
+      "六四：童牛之牿，元吉。",
+      "六五：豶豕之牙，吉。",
+      "上九：何天之衢，亨。"
+    ],
+    "id": 26,
+    "pinyin": "dà xù",
+    "alias": [
+      "山天大畜",
+      "大积蓄卦",
+      "大储备卦",
+      "蓄养卦"
+    ],
+    "trigrams": {
+      "upper": "艮",
+      "lower": "乾",
+      "upper_symbol": "☶",
+      "lower_symbol": "☰"
+    },
+    "relations": {
+      "inverse": "泽地萃",
+      "complement": "天山遁",
+      "nuclear": "雷泽归妹"
+    },
+    "five_elements": {
+      "upper": "土",
+      "lower": "金",
+      "overall": "土"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "积蓄丰厚，实力强大，前景光明",
+      "career": "事业根基深厚，发展潜力巨大",
+      "wealth": "财富积累丰厚，投资眼光独到",
+      "relationship": "感情深厚，关系稳固",
+      "health": "身体强健，精力充沛",
+      "advice": "天在山中，大畜。君子以多识前言往行，以畜其德。厚积薄发，德才并重",
+      "suitable": [
+        "积累",
+        "储备",
+        "学习",
+        "投资",
+        "发展"
+      ],
+      "avoid": [
+        "急于求成",
+        "挥霍浪费",
+        "骄傲自满"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%95%9C",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春季",
+      "month": "三月",
+      "time": "卯时(5-7点)",
+      "direction": "东",
+      "climate": "山天大畜"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "艮",
+      "lower_trigram": "乾",
+      "upper_element": "土",
+      "lower_element": "金",
+      "primary_element": "土",
+      "secondary_element": "金",
+      "element_interaction": "土生金，上下相生，和谐发展",
+      "element_details": {
+        "primary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        },
+        "secondary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业要积累资源，储备实力",
+      "career": "职场要积累经验，提升能力",
+      "investment": "投资要长期持有，积累财富",
+      "relationships": "感情要深度经营，积累感情",
+      "education": "学习要厚积薄发，积累知识",
+      "health": "身体要长期保养，积累健康",
+      "lifestyle": "生活要有积累，为未来准备"
+    }
+  },
+  "27": {
+    "name": "颐",
+    "judgement": "颐，贞吉。观颐，自求口实。",
+    "image": "山下有雷为颐。君子以慎言语，节饮食。",
+    "lines": [
+      "初九：舍尔灵龟，观我朵颐，凶。",
+      "六二：颠颐，拂经，于丘颐，征凶。",
+      "六三：拂颐，贞凶。十年勿用，无攸利。",
+      "六四：颠颐，吉。虎视眈眈，其欲逐逐，无咎。",
+      "六五：拂经，居贞吉，不可涉大川。",
+      "上九：由颐，厉吉。利涉大川。"
+    ],
+    "id": 27,
+    "pinyin": "yí",
+    "alias": [
+      "山雷颐",
+      "颐养卦",
+      "养生卦",
+      "滋养卦",
+      "保养卦"
+    ],
+    "trigrams": {
+      "upper": "艮",
+      "lower": "震",
+      "upper_symbol": "☶",
+      "lower_symbol": "☳"
+    },
+    "relations": {
+      "inverse": "泽风大过",
+      "complement": "雷山小过",
+      "nuclear": "坤为地"
+    },
+    "five_elements": {
+      "upper": "土",
+      "lower": "木",
+      "overall": "土"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中吉",
+      "fortune": "注重养生修身，颐养天年",
+      "career": "事业稳定，宜养精蓄锐",
+      "wealth": "财运平稳，宜理性理财",
+      "relationship": "感情需要用心经营，相互滋养",
+      "health": "身体健康，注重饮食调养",
+      "advice": "山下有雷，颐。君子以慎言语，节饮食。颐养身心，修身养性",
+      "suitable": [
+        "养生",
+        "修身",
+        "学习",
+        "调养",
+        "节制"
+      ],
+      "avoid": [
+        "暴饮暴食",
+        "言语不当",
+        "过度劳累"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E9%A2%90",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春夏之交",
+      "month": "四月",
+      "time": "辰时(7-9点)",
+      "direction": "东南",
+      "climate": "山雷颐养"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "艮",
+      "lower_trigram": "震",
+      "upper_element": "土",
+      "lower_element": "木",
+      "primary_element": "土",
+      "secondary_element": "木",
+      "element_interaction": "木克土，下制上，变化之象",
+      "element_details": {
+        "primary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        },
+        "secondary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业要注重可持续发展",
+      "career": "职场要注重自我修养和提升",
+      "investment": "投资要注重长期收益",
+      "relationships": "感情要相互滋养，共同成长",
+      "education": "学习要注重品德修养",
+      "health": "注重饮食营养，保养身体",
+      "lifestyle": "生活要有节制，注重养生"
+    }
+  },
+  "28": {
+    "name": "大过",
+    "judgement": "大过，栋桡。利有攸往，亨。",
+    "image": "泽灭木为大过。君子以独立不惧，遯世无闷。",
+    "lines": [
+      "初六：藉用白茅，无咎。",
+      "九二：枯杨生稊，老夫得其女妻，无不利。",
+      "九三：栋桡，凶。",
+      "九四：栋隆，吉；有它，吝。",
+      "九五：枯杨生华，老妇得其士夫，无咎无誉。",
+      "上六：过涉灭顶，凶，无咎。"
+    ],
+    "id": 28,
+    "pinyin": "dà guò",
+    "alias": [
+      "泽风大过",
+      "大过度卦",
+      "过分卦",
+      "极端卦",
+      "超越卦"
+    ],
+    "trigrams": {
+      "upper": "兑",
+      "lower": "巽",
+      "upper_symbol": "☱",
+      "lower_symbol": "☴"
+    },
+    "relations": {
+      "inverse": "山雷颐",
+      "complement": "风泽中孚",
+      "nuclear": "乾为天"
+    },
+    "five_elements": {
+      "upper": "金",
+      "lower": "木",
+      "overall": "金"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "小凶",
+      "fortune": "过犹不及，需要适度调节",
+      "career": "事业发展过快，需要稳固基础",
+      "wealth": "财运过旺，需要理性投资",
+      "relationship": "感情过于激烈，需要冷静",
+      "health": "身体过度消耗，需要休息",
+      "advice": "泽灭木，大过。君子以独立不惧，遁世无闷。过犹不及，适度为宜",
+      "suitable": [
+        "调节",
+        "平衡",
+        "休息",
+        "反思",
+        "稳固"
+      ],
+      "avoid": [
+        "过度",
+        "极端",
+        "冒险",
+        "急躁"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E8%BF%87",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "秋季",
+      "month": "九月",
+      "time": "酉时(17-19点)",
+      "direction": "西",
+      "climate": "泽风大过"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "兑",
+      "lower_trigram": "巽",
+      "upper_element": "金",
+      "lower_element": "木",
+      "primary_element": "金",
+      "secondary_element": "木",
+      "element_interaction": "金克木，上制下，需要平衡",
+      "element_details": {
+        "primary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        },
+        "secondary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业压力过大，要适度调整",
+      "career": "职场负担重，要学会减压",
+      "investment": "投资过度，要适当减仓",
+      "relationships": "感情压力大，要沟通缓解",
+      "education": "学习负担重，要合理安排",
+      "health": "身体负荷大，要注意休息",
+      "lifestyle": "生活压力大，要学会放松"
+    }
+  },
+  "29": {
+    "name": "坎",
+    "judgement": "坎，习坎，有孚维心亨，行有尚。",
+    "image": "水洊至为坎。君子以常德行，习教事。",
+    "lines": [
+      "初六：习坎，入于坎窞，凶。",
+      "九二：坎有险，求小得。",
+      "六三：来之坎坎，险且枕；入于坎窞，勿用。",
+      "六四：樽酒簋贰，用缶，纳约自牖，终无咎。",
+      "九五：坎不盈，只既平，无咎。",
+      "上六：系用徽纆，寘于丛棘，三岁不得，凶。"
+    ],
+    "id": 29,
+    "pinyin": "kǎn",
+    "alias": [
+      "坎为水",
+      "水水卦",
+      "险难卦",
+      "陷阱卦",
+      "困险卦"
+    ],
+    "trigrams": {
+      "upper": "坎",
+      "lower": "坎",
+      "upper_symbol": "☵",
+      "lower_symbol": "☵"
+    },
+    "relations": {
+      "inverse": "离为火",
+      "complement": "坎为水",
+      "nuclear": "山雷颐"
+    },
+    "five_elements": {
+      "upper": "水",
+      "lower": "水",
+      "overall": "水"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大凶",
+      "fortune": "险象环生，困难重重，需要谨慎应对",
+      "career": "事业遇到重大挫折，需要坚持",
+      "wealth": "财运不佳，投资风险大",
+      "relationship": "感情波折，关系紧张",
+      "health": "身体欠佳，注意安全",
+      "advice": "水洊至，习坎。君子以常德行，习教事。险中求胜，坚持不懈",
+      "suitable": [
+        "谨慎",
+        "坚持",
+        "学习",
+        "适应",
+        "求助"
+      ],
+      "avoid": [
+        "冒险",
+        "急躁",
+        "放弃",
+        "孤军奋战"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%9D%8E",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "冬季",
+      "month": "十一月",
+      "time": "亥时(21-23点)",
+      "direction": "北",
+      "climate": "水险重重"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "坎",
+      "lower_trigram": "坎",
+      "upper_element": "水",
+      "lower_element": "水",
+      "primary_element": "水",
+      "secondary_element": "水",
+      "element_interaction": "水气纯正，力量集中",
+      "element_details": {
+        "primary": {
+          "nature": "滋润、寒凉、向下、智慧",
+          "season": "冬季",
+          "direction": "北方",
+          "color": "黑色、蓝色",
+          "organ": "肾、膀胱",
+          "emotion": "恐惧、惊慌",
+          "virtue": "智",
+          "generates": "木",
+          "destroys": "火",
+          "generated_by": "金",
+          "destroyed_by": "土",
+          "characteristics": "主滋润、寒凉，具有向下、收藏的特性",
+          "applications": "适合思考、储蓄、休养、积累能量"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业风险重重，要谨慎应对",
+      "career": "职场困难多，要坚持不懈",
+      "investment": "投资风险高，要分散投资",
+      "relationships": "感情波折多，要相互支持",
+      "education": "学习困难大，要持之以恒",
+      "health": "身体问题多，要积极治疗",
+      "lifestyle": "生活挑战多，要勇敢面对"
+    }
+  },
+  "30": {
+    "name": "离",
+    "judgement": "离，利贞，亨。畜牝牛吉。",
+    "image": "明两作离。大人以继明照于四方。",
+    "lines": [
+      "初九：履错然，敬之无咎。",
+      "六二：黄离，元吉。",
+      "九三：日昃之离，不鼓缶而歌，则大耋之嗟，凶。",
+      "九四：突如其来如，焚如，死如，弃如。",
+      "六五：出涕沱若，戚嗟若，吉。",
+      "上九：王用出征，有嘉。折首，获匪其丑，无咎。"
+    ],
+    "id": 30,
+    "pinyin": "lí",
+    "alias": [
+      "离为火",
+      "火火卦",
+      "光明卦",
+      "文明卦",
+      "智慧卦"
+    ],
+    "trigrams": {
+      "upper": "离",
+      "lower": "离",
+      "upper_symbol": "☲",
+      "lower_symbol": "☲"
+    },
+    "relations": {
+      "inverse": "坎为水",
+      "complement": "离为火",
+      "nuclear": "泽风大过"
+    },
+    "five_elements": {
+      "upper": "火",
+      "lower": "火",
+      "overall": "火"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "光明磊落，智慧显现，前途光明",
+      "career": "事业蒸蒸日上，智慧得到认可",
+      "wealth": "财运亨通，投资眼光独到",
+      "relationship": "感情热烈，关系明朗",
+      "health": "身体健康，精神饱满",
+      "advice": "明两作，离。大人以继明照于四方。光明正大，智慧人生",
+      "suitable": [
+        "展示",
+        "发光",
+        "教育",
+        "创作",
+        "领导"
+      ],
+      "avoid": [
+        "隐瞒",
+        "欺骗",
+        "消极",
+        "黑暗"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E7%A6%BB",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "夏季",
+      "month": "五月",
+      "time": "巳时(9-11点)",
+      "direction": "东南",
+      "climate": "火明炽热"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "离",
+      "lower_trigram": "离",
+      "upper_element": "火",
+      "lower_element": "火",
+      "primary_element": "火",
+      "secondary_element": "火",
+      "element_interaction": "火气纯正，力量集中",
+      "element_details": {
+        "primary": {
+          "nature": "炎热、向上、光明、礼貌",
+          "season": "夏季",
+          "direction": "南方",
+          "color": "红色、橙色",
+          "organ": "心、小肠",
+          "emotion": "喜悦、兴奋",
+          "virtue": "礼",
+          "generates": "土",
+          "destroys": "金",
+          "generated_by": "木",
+          "destroyed_by": "水",
+          "characteristics": "主炎热、向上，具有光明、温暖的特性",
+          "applications": "适合表达、展示、庆祝、热情投入的事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业前景光明，要把握机遇",
+      "career": "职场发展好，要积极表现",
+      "investment": "投资前景佳，可以积极布局",
+      "relationships": "感情热烈，要理性对待",
+      "education": "学习成果显著，要继续努力",
+      "health": "精神状态好，要保持平衡",
+      "lifestyle": "生活充满阳光，要感恩珍惜"
+    }
+  },
+  "31": {
+    "name": "咸",
+    "judgement": "咸，亨，利贞。取女吉。",
+    "image": "山上有泽为咸。君子以虚受人。",
+    "lines": [
+      "初六：咸其拇。",
+      "六二：咸其腓，凶。居吉。",
+      "九三：咸其股，执其随，往吝。",
+      "九四：贞吉，悔亡。憧憧往来，朋从尔思。",
+      "九五：咸其脢，无悔。",
+      "上六：咸其辅颊舌。"
+    ],
+    "id": 31,
+    "pinyin": "xián",
+    "alias": [
+      "泽山咸",
+      "感应卦",
+      "感情卦",
+      "交感卦",
+      "相互卦"
+    ],
+    "trigrams": {
+      "upper": "兑",
+      "lower": "艮",
+      "upper_symbol": "☱",
+      "lower_symbol": "☶"
+    },
+    "relations": {
+      "inverse": "山泽损",
+      "complement": "山泽损",
+      "nuclear": "天风姤"
+    },
+    "five_elements": {
+      "upper": "金",
+      "lower": "土",
+      "overall": "金"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "感应灵敏，人际和谐，心想事成",
+      "career": "事业得到他人支持，合作愉快",
+      "wealth": "财运通过人脉获得",
+      "relationship": "感情甜蜜，心有灵犀",
+      "health": "身心和谐，感觉敏锐",
+      "advice": "山上有泽，咸。君子以虚受人。感而遂通，心诚则灵",
+      "suitable": [
+        "交流",
+        "感应",
+        "合作",
+        "恋爱",
+        "沟通"
+      ],
+      "avoid": [
+        "冷漠",
+        "封闭",
+        "虚假",
+        "算计"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%92%B8",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "秋季",
+      "month": "七月",
+      "time": "未时(13-15点)",
+      "direction": "西南",
+      "climate": "泽山咸应"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "兑",
+      "lower_trigram": "艮",
+      "upper_element": "金",
+      "lower_element": "土",
+      "primary_element": "金",
+      "secondary_element": "土",
+      "element_interaction": "土生金，下助上，基础稳固",
+      "element_details": {
+        "primary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        },
+        "secondary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业合作要真诚，建立信任",
+      "career": "职场人际要真心相待",
+      "investment": "投资要凭直觉，但要理性验证",
+      "relationships": "感情要真心相爱，相互感应",
+      "education": "学习要用心体会，感悟真理",
+      "health": "身心要协调，保持敏感度",
+      "lifestyle": "生活要用心感受，体验美好"
+    }
+  },
+  "32": {
+    "name": "恒",
+    "judgement": "恒，亨，无咎，利贞。利有攸往。",
+    "image": "雷风相与为恒。君子以立不易方。",
+    "lines": [
+      "初六：浚恒，贞凶，无攸利。",
+      "九二：悔亡。",
+      "九三：不恒其德，或承之羞，贞吝。",
+      "九四：田无禽。",
+      "六五：恒其德贞。妇人吉，夫子凶。",
+      "上六：振恒，凶。"
+    ],
+    "id": 32,
+    "pinyin": "héng",
+    "alias": [
+      "雷风恒",
+      "恒久卦",
+      "持久卦",
+      "永恒卦",
+      "坚持卦"
+    ],
+    "trigrams": {
+      "upper": "震",
+      "lower": "巽",
+      "upper_symbol": "☳",
+      "lower_symbol": "☴"
+    },
+    "relations": {
+      "inverse": "风雷益",
+      "complement": "风雷益",
+      "nuclear": "泽天夬"
+    },
+    "five_elements": {
+      "upper": "木",
+      "lower": "木",
+      "overall": "木"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "持之以恒，长久稳定，成就非凡",
+      "career": "事业稳步发展，长期收益",
+      "wealth": "财运稳定增长，长期投资获利",
+      "relationship": "感情持久稳定，白头偕老",
+      "health": "身体健康，长寿之相",
+      "advice": "雷风恒。君子以立不易方。恒心是成功的关键，坚持就是胜利",
+      "suitable": [
+        "坚持",
+        "长期",
+        "稳定",
+        "持续",
+        "恒心"
+      ],
+      "avoid": [
+        "三心二意",
+        "半途而废",
+        "急于求成"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/六十四卦#%E6%81%92",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春夏之交",
+      "month": "四月",
+      "time": "辰时(7-9点)",
+      "direction": "东南",
+      "climate": "雷风恒久"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "震",
+      "lower_trigram": "巽",
+      "upper_element": "木",
+      "lower_element": "木",
+      "primary_element": "木",
+      "secondary_element": "木",
+      "element_interaction": "木气纯正，力量集中",
+      "element_details": {
+        "primary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业要持续经营，建立品牌",
+      "career": "职场要持之以恒，稳步发展",
+      "investment": "投资要长期持有，稳定收益",
+      "relationships": "感情要恒久不变，相守一生",
+      "education": "学习要持续不断，终身学习",
+      "health": "健康要长期维护，养成习惯",
+      "lifestyle": "生活要有恒心，坚持原则"
+    }
+  },
+  "33": {
+    "name": "遁",
+    "judgement": "遁，亨。小利贞。",
+    "image": "天下有山为遁。君子以远小人，不恶而严。",
+    "lines": [
+      "初六：遁尾，厉。勿用有攸往。",
+      "六二：执之用黄牛之革，莫之胜说。",
+      "九三：系遁，有疾厉，畜臣妾吉。",
+      "九四：好遁，君子吉，小人否。",
+      "九五：嘉遁，贞吉。",
+      "上九：肥遁，无不利。"
+    ],
+    "id": 33,
+    "pinyin": "dùn",
+    "alias": [
+      "天山遁",
+      "退避卦",
+      "隐退卦",
+      "逃避卦",
+      "远离卦"
+    ],
+    "trigrams": {
+      "upper": "乾",
+      "lower": "艮",
+      "upper_symbol": "☰",
+      "lower_symbol": "☶"
+    },
+    "relations": {
+      "inverse": "地泽临",
+      "complement": "山天大畜",
+      "nuclear": "天风姤"
+    },
+    "five_elements": {
+      "upper": "金",
+      "lower": "土",
+      "overall": "金"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中平",
+      "fortune": "宜退避三舍，韬光养晦，等待时机",
+      "career": "事业暂时受阻，宜暂时退让",
+      "wealth": "财运一般，宜保守理财",
+      "relationship": "感情需要空间，暂时分离",
+      "health": "身体需要休息，远离喧嚣",
+      "advice": "天下有山，遁。君子以远小人，不恶而严。识时务者为俊杰，退一步海阔天空",
+      "suitable": [
+        "退让",
+        "隐退",
+        "休息",
+        "避让",
+        "等待"
+      ],
+      "avoid": [
+        "硬碰硬",
+        "强出头",
+        "争执",
+        "冒险"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/六十四卦#%E9%81%81",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "夏秋之交",
+      "month": "六月",
+      "time": "午时(11-13点)",
+      "direction": "南",
+      "climate": "天山遁隐"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "乾",
+      "lower_trigram": "艮",
+      "upper_element": "金",
+      "lower_element": "土",
+      "primary_element": "金",
+      "secondary_element": "土",
+      "element_interaction": "土生金，下助上，基础稳固",
+      "element_details": {
+        "primary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        },
+        "secondary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业环境不利，要适时退出",
+      "career": "职场不顺，要考虑转换",
+      "investment": "投资亏损，要及时撤退",
+      "relationships": "感情不合，要理性分手",
+      "education": "学习方向不对，要及时调整",
+      "health": "身体不适，要远离有害环境",
+      "lifestyle": "生活不顺，要改变环境"
+    }
+  },
+  "34": {
+    "name": "大壮",
+    "judgement": "大壮，利贞。",
+    "image": "雷在天上为大壮。君子以非礼勿履。",
+    "lines": [
+      "初九：壮于趾，征凶，有孚。",
+      "九二：贞吉。",
+      "九三：小人用壮，君子用罔。贞厉。羝羊触藩，羸其角。",
+      "九四：贞吉，悔亡。藩决不羸，壮于大舆之輹。",
+      "六五：丧羊于易，无悔。",
+      "上六：羝羊触藩，不能退，不能遂。无攸利，艰则吉。"
+    ],
+    "id": 34,
+    "pinyin": "dà zhuàng",
+    "alias": [
+      "雷天大壮",
+      "强壮卦",
+      "壮大卦",
+      "强盛卦",
+      "威武卦"
+    ],
+    "trigrams": {
+      "upper": "震",
+      "lower": "乾",
+      "upper_symbol": "☳",
+      "lower_symbol": "☰"
+    },
+    "relations": {
+      "inverse": "风地观",
+      "complement": "天雷无妄",
+      "nuclear": "泽天夬"
+    },
+    "five_elements": {
+      "upper": "木",
+      "lower": "金",
+      "overall": "木"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中吉",
+      "fortune": "实力强大，但需要控制力度",
+      "career": "事业发展强劲，但要避免过于激进",
+      "wealth": "财运旺盛，但要理性投资",
+      "relationship": "感情热烈，但要控制情绪",
+      "health": "身体强健，但要注意不要过度",
+      "advice": "雷在天上，大壮。君子以非礼弗履。强而有礼，刚而不暴",
+      "suitable": [
+        "进取",
+        "发展",
+        "扩张",
+        "竞争",
+        "展示"
+      ],
+      "avoid": [
+        "过度激进",
+        "暴力",
+        "无礼",
+        "冲动"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%A3%AE",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春季",
+      "month": "二月",
+      "time": "寅时(3-5点)",
+      "direction": "东北",
+      "climate": "雷天大壮"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "震",
+      "lower_trigram": "乾",
+      "upper_element": "木",
+      "lower_element": "金",
+      "primary_element": "木",
+      "secondary_element": "金",
+      "element_interaction": "金克木，下制上，变化之象",
+      "element_details": {
+        "primary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        },
+        "secondary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业实力强大，但要谦逊",
+      "career": "职场能力强，要合理运用",
+      "investment": "投资实力雄厚，要理性投资",
+      "relationships": "感情强烈，要控制情绪",
+      "education": "学习能力强，要全面发展",
+      "health": "身体强壮，要适度锻炼",
+      "lifestyle": "生活充满活力，要有节制"
+    }
+  },
+  "35": {
+    "name": "晋",
+    "judgement": "晋，康侯用锡马蕃庶，昼日三接。",
+    "image": "明出地上为晋。君子以自昭明德，广布仁政。",
+    "lines": [
+      "初六：晋如，摧如，贞吉。罔孚，裕无咎。",
+      "六二：晋如，愁如，贞吉。受兹介福，于其王母。",
+      "六三：众允，悔亡。",
+      "九四：晋如鼫鼠，贞厉。",
+      "六五：悔亡。失得勿恤。往吉，无不利。",
+      "上九：晋其角。维用伐邑，厉吉，无咎，贞吝。"
+    ],
+    "id": 35,
+    "pinyin": "jìn",
+    "alias": [
+      "火地晋",
+      "前进卦",
+      "晋升卦",
+      "进步卦",
+      "发展卦"
+    ],
+    "trigrams": {
+      "upper": "离",
+      "lower": "坤",
+      "upper_symbol": "☲",
+      "lower_symbol": "☷"
+    },
+    "relations": {
+      "inverse": "水天需",
+      "complement": "地火明夷",
+      "nuclear": "水山蹇"
+    },
+    "five_elements": {
+      "upper": "火",
+      "lower": "土",
+      "overall": "火"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "运势上升，前程似锦，步步高升",
+      "career": "事业蒸蒸日上，升职在望",
+      "wealth": "财运亨通，收入大增",
+      "relationship": "感情升温，关系进展",
+      "health": "身体健康，精神焕发",
+      "advice": "明出地上，晋。君子以自昭明德。光明正大，积极进取",
+      "suitable": [
+        "进取",
+        "晋升",
+        "发展",
+        "展示",
+        "积极"
+      ],
+      "avoid": [
+        "消极",
+        "退缩",
+        "隐藏",
+        "保守"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E6%99%8B",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "夏季",
+      "month": "五月",
+      "time": "巳时(9-11点)",
+      "direction": "东南",
+      "climate": "火地晋升"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "离",
+      "lower_trigram": "坤",
+      "upper_element": "火",
+      "lower_element": "土",
+      "primary_element": "火",
+      "secondary_element": "土",
+      "element_interaction": "火生土，上下相生，和谐发展",
+      "element_details": {
+        "primary": {
+          "nature": "炎热、向上、光明、礼貌",
+          "season": "夏季",
+          "direction": "南方",
+          "color": "红色、橙色",
+          "organ": "心、小肠",
+          "emotion": "喜悦、兴奋",
+          "virtue": "礼",
+          "generates": "土",
+          "destroys": "金",
+          "generated_by": "木",
+          "destroyed_by": "水",
+          "characteristics": "主炎热、向上，具有光明、温暖的特性",
+          "applications": "适合表达、展示、庆祝、热情投入的事务"
+        },
+        "secondary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业蒸蒸日上，要继续努力",
+      "career": "职场晋升顺利，要再接再厉",
+      "investment": "投资收益上升，要适度获利",
+      "relationships": "感情进展顺利，要珍惜缘分",
+      "education": "学习进步明显，要保持状态",
+      "health": "身体状况改善，要继续保养",
+      "lifestyle": "生活越来越好，要感恩知足"
+    }
+  },
+  "36": {
+    "name": "明夷",
+    "judgement": "明夷，利艰贞。",
+    "image": "明入地中为明夷。君子以莅众，用晦而明。",
+    "lines": [
+      "初九：明夷于飞，垂其翼。君子于行，三日不食；有攸往，主人有言。",
+      "六二：明夷，夷于左股。用拯马壮，吉。",
+      "九三：明夷于南狩，得其大首，不可疾，贞。",
+      "六四：入于左腹，获明夷之心，于出门庭。",
+      "六五：箕子之明夷，利贞。",
+      "上六：不明晦。初登于天，后入于地。"
+    ],
+    "id": 36,
+    "pinyin": "míng yí",
+    "alias": [
+      "地火明夷",
+      "光明受伤卦",
+      "黑暗卦",
+      "困难卦",
+      "隐忍卦"
+    ],
+    "trigrams": {
+      "upper": "坤",
+      "lower": "离",
+      "upper_symbol": "☷",
+      "lower_symbol": "☲"
+    },
+    "relations": {
+      "inverse": "天水讼",
+      "complement": "火地晋",
+      "nuclear": "雷水解"
+    },
+    "five_elements": {
+      "upper": "土",
+      "lower": "火",
+      "overall": "土"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大凶",
+      "fortune": "光明受损，处境艰难，需要忍耐",
+      "career": "事业受挫，遭遇不公，需要坚持",
+      "wealth": "财运不佳，收入减少",
+      "relationship": "感情受伤，关系紧张",
+      "health": "身体欠佳，精神压抑",
+      "advice": "明入地中，明夷。君子以莅众，用晦而明。韬光养晦，等待时机",
+      "suitable": [
+        "忍耐",
+        "等待",
+        "韬晦",
+        "坚持",
+        "修身"
+      ],
+      "avoid": [
+        "冒头",
+        "争执",
+        "冒险",
+        "急躁"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E6%98%8E%E5%A4%B7",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "夏秋之交",
+      "month": "六月",
+      "time": "午时(11-13点)",
+      "direction": "南",
+      "climate": "地火明伤"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "坤",
+      "lower_trigram": "离",
+      "upper_element": "土",
+      "lower_element": "火",
+      "primary_element": "土",
+      "secondary_element": "火",
+      "element_interaction": "火生土，下助上，基础稳固",
+      "element_details": {
+        "primary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        },
+        "secondary": {
+          "nature": "炎热、向上、光明、礼貌",
+          "season": "夏季",
+          "direction": "南方",
+          "color": "红色、橙色",
+          "organ": "心、小肠",
+          "emotion": "喜悦、兴奋",
+          "virtue": "礼",
+          "generates": "土",
+          "destroys": "金",
+          "generated_by": "木",
+          "destroyed_by": "水",
+          "characteristics": "主炎热、向上，具有光明、温暖的特性",
+          "applications": "适合表达、展示、庆祝、热情投入的事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业遭受打击，要韬光养晦",
+      "career": "职场受挫，要低调行事",
+      "investment": "投资亏损，要保存实力",
+      "relationships": "感情受伤，要时间疗愈",
+      "education": "学习受阻，要坚持基础",
+      "health": "身体受损，要积极治疗",
+      "lifestyle": "生活困难，要保持希望"
+    }
+  },
+  "37": {
+    "name": "家人",
+    "judgement": "家人，利女贞。",
+    "image": "风自火出为家人。君子以言有物，行有恒。",
+    "lines": [
+      "初九：闲有家，悔亡。",
+      "六二：无攸遂，在中馈，贞吉。",
+      "九三：家人嗃嗃，悔厉吉。妇子嘻嘻，终吝。",
+      "六四：富家，大吉。",
+      "九五：王假有家，勿恤，吉。",
+      "上九：有孚威如，终吉。"
+    ],
+    "id": 37,
+    "pinyin": "jiā rén",
+    "alias": [
+      "风火家人",
+      "家庭卦",
+      "家族卦",
+      "亲情卦",
+      "和睦卦"
+    ],
+    "trigrams": {
+      "upper": "巽",
+      "lower": "离",
+      "upper_symbol": "☴",
+      "lower_symbol": "☲"
+    },
+    "relations": {
+      "inverse": "雷水解",
+      "complement": "火风鼎",
+      "nuclear": "火水未济"
+    },
+    "five_elements": {
+      "upper": "木",
+      "lower": "火",
+      "overall": "木"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "家庭和睦，亲情浓厚，温馨幸福",
+      "career": "事业稳定，同事关系和谐",
+      "wealth": "财运平稳，家庭理财有方",
+      "relationship": "感情和睦，家庭幸福",
+      "health": "身心健康，家庭氛围好",
+      "advice": "风自火出，家人。君子以言有物，而行有恒。齐家治国，家和万事兴",
+      "suitable": [
+        "家庭",
+        "和睦",
+        "团聚",
+        "教育",
+        "传统"
+      ],
+      "avoid": [
+        "家庭纠纷",
+        "冷漠",
+        "疏远",
+        "不负责任"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%AE%B6%E4%BA%BA",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春夏之交",
+      "month": "四月",
+      "time": "辰时(7-9点)",
+      "direction": "东南",
+      "climate": "风火家庭"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "巽",
+      "lower_trigram": "离",
+      "upper_element": "木",
+      "lower_element": "火",
+      "primary_element": "木",
+      "secondary_element": "火",
+      "element_interaction": "木生火，上下相生，和谐发展",
+      "element_details": {
+        "primary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        },
+        "secondary": {
+          "nature": "炎热、向上、光明、礼貌",
+          "season": "夏季",
+          "direction": "南方",
+          "color": "红色、橙色",
+          "organ": "心、小肠",
+          "emotion": "喜悦、兴奋",
+          "virtue": "礼",
+          "generates": "土",
+          "destroys": "金",
+          "generated_by": "木",
+          "destroyed_by": "水",
+          "characteristics": "主炎热、向上，具有光明、温暖的特性",
+          "applications": "适合表达、展示、庆祝、热情投入的事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业要注重团队建设，如家人般",
+      "career": "职场要重视团队合作",
+      "investment": "投资要考虑家庭需求",
+      "relationships": "感情要以家庭为重",
+      "education": "学习要重视家庭教育",
+      "health": "健康要关注家人健康",
+      "lifestyle": "生活要以家庭和睦为主"
+    }
+  },
+  "38": {
+    "name": "睽",
+    "judgement": "睽，小事吉。",
+    "image": "上火下泽为睽。君子以求同存异，和而不同。",
+    "lines": [
+      "初九：悔亡。丧马，勿逐，自复；见恶人，无咎。",
+      "九二：遇主于巷，无咎。",
+      "六三：见舆曳，其牛掣，其人天且劓，无初有终。",
+      "九四：睽孤，遇元夫，交孚，厉无咎。",
+      "六五：悔亡。厥宗噬肤，往何咎？",
+      "上九：睽孤，见豕负涂，载鬼一车。先张之弧，后说之弧。匪寇婚媾。往，遇雨则吉。"
+    ],
+    "id": 38,
+    "pinyin": "kuí",
+    "alias": [
+      "火泽睽",
+      "背离卦",
+      "分歧卦",
+      "对立卦",
+      "矛盾卦"
+    ],
+    "trigrams": {
+      "upper": "离",
+      "lower": "兑",
+      "upper_symbol": "☲",
+      "lower_symbol": "☱"
+    },
+    "relations": {
+      "inverse": "水山蹇",
+      "complement": "泽火革",
+      "nuclear": "水火既济"
+    },
+    "five_elements": {
+      "upper": "火",
+      "lower": "金",
+      "overall": "火"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "小凶",
+      "fortune": "意见分歧，关系疏远，需要沟通",
+      "career": "工作中易有分歧，需要协调",
+      "wealth": "财运一般，投资意见不一",
+      "relationship": "感情出现分歧，需要理解",
+      "health": "身心不协调，需要调节",
+      "advice": "上火下泽，睽。君子以同而异。求同存异，和而不同",
+      "suitable": [
+        "沟通",
+        "理解",
+        "协调",
+        "妥协",
+        "包容"
+      ],
+      "avoid": [
+        "固执",
+        "对立",
+        "分裂",
+        "偏见"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E7%9D%BD",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "秋季",
+      "month": "七月",
+      "time": "未时(13-15点)",
+      "direction": "西南",
+      "climate": "火泽睽违"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "离",
+      "lower_trigram": "兑",
+      "upper_element": "火",
+      "lower_element": "金",
+      "primary_element": "火",
+      "secondary_element": "金",
+      "element_interaction": "火克金，上制下，需要平衡",
+      "element_details": {
+        "primary": {
+          "nature": "炎热、向上、光明、礼貌",
+          "season": "夏季",
+          "direction": "南方",
+          "color": "红色、橙色",
+          "organ": "心、小肠",
+          "emotion": "喜悦、兴奋",
+          "virtue": "礼",
+          "generates": "土",
+          "destroys": "金",
+          "generated_by": "木",
+          "destroyed_by": "水",
+          "characteristics": "主炎热、向上，具有光明、温暖的特性",
+          "applications": "适合表达、展示、庆祝、热情投入的事务"
+        },
+        "secondary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业合作有分歧，要求同存异",
+      "career": "职场有矛盾，要理性处理",
+      "investment": "投资观点不同，要独立思考",
+      "relationships": "感情有隔阂，要沟通理解",
+      "education": "学习有争议，要批判思考",
+      "health": "身心不协调，要调节平衡",
+      "lifestyle": "生活有冲突，要包容理解"
+    }
+  },
+  "39": {
+    "name": "蹇",
+    "judgement": "蹇，利西南，不利东北。利见大人，贞吉。",
+    "image": "水在山上为蹇。君子以反身修德，以时济险。",
+    "lines": [
+      "初六：往蹇，来誉。",
+      "六二：王臣蹇蹇，匪躬之故。",
+      "九三：往蹇，来反。",
+      "六四：往蹇，来连。",
+      "九五：大蹇，朋来。",
+      "上六：往蹇，来硕。吉；利见大人。"
+    ],
+    "id": 39,
+    "pinyin": "jiǎn",
+    "alias": [
+      "水山蹇",
+      "艰难卦",
+      "困难卦",
+      "阻碍卦",
+      "险阻卦"
+    ],
+    "trigrams": {
+      "upper": "坎",
+      "lower": "艮",
+      "upper_symbol": "☵",
+      "lower_symbol": "☶"
+    },
+    "relations": {
+      "inverse": "火泽睽",
+      "complement": "山水蒙",
+      "nuclear": "火水未济"
+    },
+    "five_elements": {
+      "upper": "水",
+      "lower": "土",
+      "overall": "水"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大凶",
+      "fortune": "前路艰难，步履维艰，需要坚持",
+      "career": "事业遇到重大阻碍，进展缓慢",
+      "wealth": "财运不佳，经济困难",
+      "relationship": "感情遇到障碍，关系紧张",
+      "health": "身体不适，行动不便",
+      "advice": "山上有水，蹇。君子以反身修德。困难是成长的机会，坚持就是胜利",
+      "suitable": [
+        "坚持",
+        "修身",
+        "反思",
+        "求助",
+        "耐心"
+      ],
+      "avoid": [
+        "放弃",
+        "急躁",
+        "冒险",
+        "孤军奋战"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E8%B9%87",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "冬季",
+      "month": "十一月",
+      "time": "亥时(21-23点)",
+      "direction": "北",
+      "climate": "水山蹇难"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "坎",
+      "lower_trigram": "艮",
+      "upper_element": "水",
+      "lower_element": "土",
+      "primary_element": "水",
+      "secondary_element": "土",
+      "element_interaction": "土克水，下制上，变化之象",
+      "element_details": {
+        "primary": {
+          "nature": "滋润、寒凉、向下、智慧",
+          "season": "冬季",
+          "direction": "北方",
+          "color": "黑色、蓝色",
+          "organ": "肾、膀胱",
+          "emotion": "恐惧、惊慌",
+          "virtue": "智",
+          "generates": "木",
+          "destroys": "火",
+          "generated_by": "金",
+          "destroyed_by": "土",
+          "characteristics": "主滋润、寒凉，具有向下、收藏的特性",
+          "applications": "适合思考、储蓄、休养、积累能量"
+        },
+        "secondary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业困难重重，要寻求帮助",
+      "career": "职场阻碍多，要耐心克服",
+      "investment": "投资困难，要谨慎行事",
+      "relationships": "感情有障碍，要努力沟通",
+      "education": "学习困难，要寻求指导",
+      "health": "身体不适，要及时就医",
+      "lifestyle": "生活困顿，要寻求支持"
+    }
+  },
+  "40": {
+    "name": "解",
+    "judgement": "解，利西南，无所往，其来复吉。有攸往，夙吉。",
+    "image": "雷雨作解为解。君子以赦过宥罪，宽以济急。",
+    "lines": [
+      "初六：无咎。",
+      "九二：田获三狐，得黄矢，贞吉。",
+      "六三：负且乘，致寇至，贞吝。",
+      "九四：解而拇，朋至斯孚。",
+      "六五：君子维有解，吉；有孚于小人。",
+      "上六：公用射隼于高墉之上，获之，无不利。"
+    ],
+    "id": 40,
+    "pinyin": "xiè",
+    "alias": [
+      "雷水解",
+      "解脱卦",
+      "解决卦",
+      "化解卦",
+      "释放卦"
+    ],
+    "trigrams": {
+      "upper": "震",
+      "lower": "坎",
+      "upper_symbol": "☳",
+      "lower_symbol": "☵"
+    },
+    "relations": {
+      "inverse": "风火家人",
+      "complement": "水雷屯",
+      "nuclear": "水火既济"
+    },
+    "five_elements": {
+      "upper": "木",
+      "lower": "水",
+      "overall": "木"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "困难解除，问题解决，柳暗花明",
+      "career": "事业困境得到解决，前景光明",
+      "wealth": "财运好转，经济压力缓解",
+      "relationship": "感情问题得到解决，关系改善",
+      "health": "身体康复，疾病痊愈",
+      "advice": "雷雨作，解。君子以赦过宥罪。宽容大度，化解矛盾",
+      "suitable": [
+        "解决",
+        "化解",
+        "宽恕",
+        "释放",
+        "新开始"
+      ],
+      "avoid": [
+        "记仇",
+        "纠结",
+        "固执",
+        "报复"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E8%A7%A3",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春季",
+      "month": "二月",
+      "time": "寅时(3-5点)",
+      "direction": "东北",
+      "climate": "雷水解脱"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "震",
+      "lower_trigram": "坎",
+      "upper_element": "木",
+      "lower_element": "水",
+      "primary_element": "木",
+      "secondary_element": "水",
+      "element_interaction": "水生木，下助上，基础稳固",
+      "element_details": {
+        "primary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        },
+        "secondary": {
+          "nature": "滋润、寒凉、向下、智慧",
+          "season": "冬季",
+          "direction": "北方",
+          "color": "黑色、蓝色",
+          "organ": "肾、膀胱",
+          "emotion": "恐惧、惊慌",
+          "virtue": "智",
+          "generates": "木",
+          "destroys": "火",
+          "generated_by": "金",
+          "destroyed_by": "土",
+          "characteristics": "主滋润、寒凉，具有向下、收藏的特性",
+          "applications": "适合思考、储蓄、休养、积累能量"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业困难开始解决，要把握机会",
+      "career": "职场问题得到解决，要积极行动",
+      "investment": "投资困境解除，可以重新布局",
+      "relationships": "感情问题化解，要珍惜和好",
+      "education": "学习困难突破，要继续努力",
+      "health": "身体问题好转，要继续治疗",
+      "lifestyle": "生活困难解除，要重新开始"
+    }
+  },
+  "41": {
+    "name": "损",
+    "judgement": "损，有孚，元吉，无咎。可贞，利有攸往。曷之用？二簋可用享。",
+    "image": "山下有泽为损。君子以损上益下，衡德裁事。",
+    "lines": [
+      "初九：已事遄往，无咎。酌损之。",
+      "九二：利贞，征凶。弗损益之。",
+      "六三：三人行，则损一人；一人行，则得其友。",
+      "六四：损其疾，使遄有喜，无咎。",
+      "六五：或益之，十朋之龟弗克违，元吉。",
+      "上九：弗损益之，无咎，贞吉。利有攸往。得臣无家。"
+    ],
+    "id": 41,
+    "pinyin": "sǔn",
+    "alias": [
+      "山泽损",
+      "减损卦",
+      "损失卦",
+      "节制卦",
+      "牺牲卦"
+    ],
+    "trigrams": {
+      "upper": "艮",
+      "lower": "兑",
+      "upper_symbol": "☶",
+      "lower_symbol": "☱"
+    },
+    "relations": {
+      "inverse": "泽山咸",
+      "complement": "泽山咸",
+      "nuclear": "地雷复"
+    },
+    "five_elements": {
+      "upper": "土",
+      "lower": "金",
+      "overall": "土"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中平",
+      "fortune": "有所损失，但为了更大的收获",
+      "career": "事业需要投入，短期损失长期收益",
+      "wealth": "财运需要投资，先损后益",
+      "relationship": "感情需要付出，牺牲小我",
+      "health": "身体需要调养，暂时不适",
+      "advice": "山下有泽，损。君子以惩忿窒欲。损己利人，舍得智慧",
+      "suitable": [
+        "投资",
+        "付出",
+        "牺牲",
+        "节制",
+        "修身"
+      ],
+      "avoid": [
+        "自私",
+        "贪婪",
+        "短视",
+        "计较"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/六十四卦#%E6%8D%9F",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "秋季",
+      "month": "八月",
+      "time": "申时(15-17点)",
+      "direction": "西南",
+      "climate": "山泽损减"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "艮",
+      "lower_trigram": "兑",
+      "upper_element": "土",
+      "lower_element": "金",
+      "primary_element": "土",
+      "secondary_element": "金",
+      "element_interaction": "土生金，上下相生，和谐发展",
+      "element_details": {
+        "primary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        },
+        "secondary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业要适度收缩，减少开支",
+      "career": "职场要低调行事，减少冲突",
+      "investment": "投资要减仓，控制风险",
+      "relationships": "感情要适度克制，避免过度",
+      "education": "学习要精简内容，重点突破",
+      "health": "身体要减负，适度休息",
+      "lifestyle": "生活要简朴，减少欲望"
+    }
+  },
+  "42": {
+    "name": "益",
+    "judgement": "益，利有攸往，利涉大川。",
+    "image": "风雷益。君子以见善则迁，有过则改。",
+    "lines": [
+      "初九：利用为大作，元吉，无咎。",
+      "六二：或益之，十朋之龟弗克违，永贞吉。王用享于帝，吉。",
+      "六三：益之用凶事，无咎。有孚中行，告公用圭。",
+      "六四：中行，告公从。利用为依，迁国。",
+      "九五：有孚惠心，勿问元吉。有孚，惠我德。",
+      "上九：莫益之，或击之。立心勿恒，凶。"
+    ],
+    "id": 42,
+    "pinyin": "yì",
+    "alias": [
+      "风雷益",
+      "增益卦",
+      "利益卦",
+      "增长卦",
+      "改善卦"
+    ],
+    "trigrams": {
+      "upper": "巽",
+      "lower": "震",
+      "upper_symbol": "☴",
+      "lower_symbol": "☳"
+    },
+    "relations": {
+      "inverse": "雷风恒",
+      "complement": "雷风恒",
+      "nuclear": "山地剥"
+    },
+    "five_elements": {
+      "upper": "木",
+      "lower": "木",
+      "overall": "木"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "获得利益，收获丰厚，前景光明",
+      "career": "事业蒸蒸日上，收益颇丰",
+      "wealth": "财运亨通，投资获利",
+      "relationship": "感情收获，关系改善",
+      "health": "身体健康，精力充沛",
+      "advice": "风雷益。君子以见善则迁，有过则改。见贤思齐，不断进步",
+      "suitable": [
+        "进取",
+        "改善",
+        "学习",
+        "投资",
+        "发展"
+      ],
+      "avoid": [
+        "骄傲",
+        "停滞",
+        "浪费",
+        "自满"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E7%9B%8A",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春季",
+      "month": "三月",
+      "time": "卯时(5-7点)",
+      "direction": "东",
+      "climate": "风雷益增"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "巽",
+      "lower_trigram": "震",
+      "upper_element": "木",
+      "lower_element": "木",
+      "primary_element": "木",
+      "secondary_element": "木",
+      "element_interaction": "木气纯正，力量集中",
+      "element_details": {
+        "primary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业有利可图，要积极扩张",
+      "career": "职场有益发展，要把握机会",
+      "investment": "投资有利，可以增加投入",
+      "relationships": "感情互利，要相互促进",
+      "education": "学习有益，要加大投入",
+      "health": "身体有益，要继续保持",
+      "lifestyle": "生活有益，要积极向上"
+    }
+  },
+  "43": {
+    "name": "夬",
+    "judgement": "夬，扬于王庭，孚号有厉。告自邑，不利即戎，利有攸往。",
+    "image": "泽上于天为夬。君子以决疑去邪，果断行义。",
+    "lines": [
+      "初九：壮于前趾，往不胜为咎。",
+      "九二：惕号，莫夜有戎，勿恤。",
+      "九三：壮于頄，有凶。君子夬夬，独行遇雨，若濡，有愠，无咎。",
+      "九四：臀无肤，其行次且。牵羊悔亡，闻言不信。",
+      "九五：苋陆夬夬，中行无咎。",
+      "上六：无号，终有凶。"
+    ],
+    "id": 43,
+    "pinyin": "guài",
+    "alias": [
+      "泽天夬",
+      "决断卦",
+      "果断卦",
+      "决定卦",
+      "突破卦"
+    ],
+    "trigrams": {
+      "upper": "兑",
+      "lower": "乾",
+      "upper_symbol": "☱",
+      "lower_symbol": "☰"
+    },
+    "relations": {
+      "inverse": "山地剥",
+      "complement": "天泽履",
+      "nuclear": "乾为天"
+    },
+    "five_elements": {
+      "upper": "金",
+      "lower": "金",
+      "overall": "金"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中吉",
+      "fortune": "需要果断决策，排除障碍",
+      "career": "事业需要突破，果断行动",
+      "wealth": "财运需要决断，把握时机",
+      "relationship": "感情需要表态，明确关系",
+      "health": "身体需要治疗，果断就医",
+      "advice": "泽上于天，夬。君子以施禄及下，居德则忌。当机立断，刚柔并济",
+      "suitable": [
+        "决断",
+        "突破",
+        "行动",
+        "表态",
+        "治疗"
+      ],
+      "avoid": [
+        "优柔寡断",
+        "拖延",
+        "逃避",
+        "犹豫"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%A4%AC",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春夏之交",
+      "month": "四月",
+      "time": "辰时(7-9点)",
+      "direction": "东南",
+      "climate": "泽天夬决"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "兑",
+      "lower_trigram": "乾",
+      "upper_element": "金",
+      "lower_element": "金",
+      "primary_element": "金",
+      "secondary_element": "金",
+      "element_interaction": "金气纯正，力量集中",
+      "element_details": {
+        "primary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业决策要果断，不可犹豫",
+      "career": "职场要果断行动，把握时机",
+      "investment": "投资要果断决策，不要拖延",
+      "relationships": "感情要果断表态，明确关系",
+      "education": "学习要果断选择，专注方向",
+      "health": "健康问题要果断治疗",
+      "lifestyle": "生活要果断决定，不要拖延"
+    }
+  },
+  "44": {
+    "name": "姤",
+    "judgement": "姤，女壮，勿用取女。",
+    "image": "天风姤。君子以虚受纳新，知几而戒。",
+    "lines": [
+      "初六：系于金柅，贞吉。有攸往，见凶。羸豕孚蹢躅。",
+      "九二：包有鱼，无咎。不利宾。",
+      "九三：臀无肤，其行次且。厉，无大咎。",
+      "九四：包无鱼，起凶。",
+      "九五：以杞包瓜，含章，有陨自天。",
+      "上九：姤其角，吝，无咎。"
+    ],
+    "id": 44,
+    "pinyin": "gòu",
+    "alias": [
+      "天风姤",
+      "相遇卦",
+      "邂逅卦",
+      "机遇卦",
+      "偶然卦"
+    ],
+    "trigrams": {
+      "upper": "乾",
+      "lower": "巽",
+      "upper_symbol": "☰",
+      "lower_symbol": "☴"
+    },
+    "relations": {
+      "inverse": "地雷复",
+      "complement": "风天小畜",
+      "nuclear": "乾为天"
+    },
+    "five_elements": {
+      "upper": "金",
+      "lower": "木",
+      "overall": "金"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "小凶",
+      "fortune": "意外相遇，但需要谨慎应对",
+      "career": "工作中遇到意外情况，需要灵活应对",
+      "wealth": "财运有意外收获，但要小心陷阱",
+      "relationship": "感情有意外发展，但要理性对待",
+      "health": "身体有意外状况，需要注意",
+      "advice": "天下有风，姤。后以施命诰四方。机遇与风险并存，谨慎把握",
+      "suitable": [
+        "灵活",
+        "应变",
+        "谨慎",
+        "观察",
+        "准备"
+      ],
+      "avoid": [
+        "盲目",
+        "冲动",
+        "轻信",
+        "大意"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%A7%A4",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "夏季",
+      "month": "五月",
+      "time": "巳时(9-11点)",
+      "direction": "东南",
+      "climate": "天风姤遇"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "乾",
+      "lower_trigram": "巽",
+      "upper_element": "金",
+      "lower_element": "木",
+      "primary_element": "金",
+      "secondary_element": "木",
+      "element_interaction": "金克木，上制下，需要平衡",
+      "element_details": {
+        "primary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        },
+        "secondary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业机遇突然出现，要谨慎把握",
+      "career": "职场意外机会，要理性对待",
+      "investment": "投资机会突现，要仔细分析",
+      "relationships": "感情意外邂逅，要慎重考虑",
+      "education": "学习机会难得，要珍惜把握",
+      "health": "身体突然变化，要及时关注",
+      "lifestyle": "生活意外惊喜，要理性享受"
+    }
+  },
+  "45": {
+    "name": "萃",
+    "judgement": "萃，亨。王假有庙；利见大人，亨。利贞。用大牲吉。利有攸往。",
+    "image": "泽地萃。君子以除戎器，戒不虞。",
+    "lines": [
+      "初六：有孚不终，乃乱乃萃。若号，一握为笑；勿恤，往无咎。",
+      "六二：引吉，无咎。孚乃利用禴。",
+      "六三：萃如，嗟如，无攸利；往无咎，小吝。",
+      "九四：大吉，无咎。",
+      "九五：萃有位，无咎。匪孚，元永贞，悔亡。",
+      "上六：赍咨涕洟，无咎。"
+    ],
+    "id": 45,
+    "pinyin": "cuì",
+    "alias": [
+      "泽地萃",
+      "聚集卦",
+      "汇聚卦",
+      "团聚卦",
+      "集合卦"
+    ],
+    "trigrams": {
+      "upper": "兑",
+      "lower": "坤",
+      "upper_symbol": "☱",
+      "lower_symbol": "☷"
+    },
+    "relations": {
+      "inverse": "山天大畜",
+      "complement": "地泽临",
+      "nuclear": "风山渐"
+    },
+    "five_elements": {
+      "upper": "金",
+      "lower": "土",
+      "overall": "金"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "聚集力量，团结合作，成就大业",
+      "career": "事业得到众人支持，团队力量强",
+      "wealth": "财运通过合作获得，众人拾柴火焰高",
+      "relationship": "感情和谐，朋友众多",
+      "health": "身心健康，精神饱满",
+      "advice": "泽上于地，萃。君子以除戎器，戒不虞。团结就是力量，居安思危",
+      "suitable": [
+        "团结",
+        "合作",
+        "聚集",
+        "组织",
+        "领导"
+      ],
+      "avoid": [
+        "分裂",
+        "孤立",
+        "内斗",
+        "散漫"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E8%90%83",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "夏秋之交",
+      "month": "六月",
+      "time": "午时(11-13点)",
+      "direction": "南",
+      "climate": "泽地萃聚"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "兑",
+      "lower_trigram": "坤",
+      "upper_element": "金",
+      "lower_element": "土",
+      "primary_element": "金",
+      "secondary_element": "土",
+      "element_interaction": "土生金，下助上，基础稳固",
+      "element_details": {
+        "primary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        },
+        "secondary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业要集中资源，形成合力",
+      "career": "职场要团结同事，共同努力",
+      "investment": "投资要集中优势，重点布局",
+      "relationships": "感情要聚集力量，共同面对",
+      "education": "学习要集中精力，重点突破",
+      "health": "身体要集中调理，重点保养",
+      "lifestyle": "生活要聚集正能量，积极向上"
+    }
+  },
+  "46": {
+    "name": "升",
+    "judgement": "升，元亨。用见大人，勿恤。南征吉。",
+    "image": "地风升。君子以顺德积善，渐进无疆。",
+    "lines": [
+      "初六：允升，大吉。",
+      "九二：孚乃利用禴，无咎。",
+      "九三：升虚邑。",
+      "六四：王用亨于岐山，吉，无咎。",
+      "六五：贞吉，升阶。",
+      "上六：冥升，利于不息之贞。"
+    ],
+    "id": 46,
+    "pinyin": "shēng",
+    "alias": [
+      "地风升",
+      "上升卦",
+      "提升卦",
+      "晋升卦",
+      "成长卦"
+    ],
+    "trigrams": {
+      "upper": "坤",
+      "lower": "巽",
+      "upper_symbol": "☷",
+      "lower_symbol": "☴"
+    },
+    "relations": {
+      "inverse": "天雷无妄",
+      "complement": "风地观",
+      "nuclear": "雷泽归妹"
+    },
+    "five_elements": {
+      "upper": "土",
+      "lower": "木",
+      "overall": "土"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "运势上升，步步高升，前程似锦",
+      "career": "事业蒸蒸日上，升职在望",
+      "wealth": "财运亨通，收入增加",
+      "relationship": "感情升温，关系进展",
+      "health": "身体健康，精神焕发",
+      "advice": "地中生木，升。君子以顺德，积小以高大。积少成多，厚积薄发",
+      "suitable": [
+        "进取",
+        "提升",
+        "积累",
+        "学习",
+        "发展"
+      ],
+      "avoid": [
+        "急躁",
+        "骄傲",
+        "投机",
+        "浮躁"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%8D%87",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春季",
+      "month": "三月",
+      "time": "卯时(5-7点)",
+      "direction": "东",
+      "climate": "地风升腾"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "坤",
+      "lower_trigram": "巽",
+      "upper_element": "土",
+      "lower_element": "木",
+      "primary_element": "土",
+      "secondary_element": "木",
+      "element_interaction": "木克土，下制上，变化之象",
+      "element_details": {
+        "primary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        },
+        "secondary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业稳步上升，要持续努力",
+      "career": "职场逐步提升，要保持状态",
+      "investment": "投资稳定增长，要长期持有",
+      "relationships": "感情逐步升温，要珍惜发展",
+      "education": "学习稳步提高，要持续努力",
+      "health": "身体逐步改善，要继续保养",
+      "lifestyle": "生活逐步改善，要感恩知足"
+    }
+  },
+  "47": {
+    "name": "困",
+    "judgement": "困，亨，贞。大人吉，无咎。有言不信。",
+    "image": "泽无水为困。君子以致命遂志，处困能守正。",
+    "lines": [
+      "初六：臀困于株木，入于幽谷，三岁不觌。",
+      "九二：困于酒食，朱绂方来；利用享祀，征凶，无咎。",
+      "六三：困于石，据于蒺藜；入于其宫，不见其妻，凶。",
+      "九四：来徐徐，困于金车，吝，有终。",
+      "九五：劓刖，困于赤绂；乃徐有说，利用祭祀。",
+      "上六：困于葛藟，于臲卼；曰动悔。有悔，征吉。"
+    ],
+    "id": 47,
+    "pinyin": "kùn",
+    "alias": [
+      "泽水困",
+      "困顿卦",
+      "困难卦",
+      "窘迫卦",
+      "艰苦卦"
+    ],
+    "trigrams": {
+      "upper": "兑",
+      "lower": "坎",
+      "upper_symbol": "☱",
+      "lower_symbol": "☵"
+    },
+    "relations": {
+      "inverse": "山火贲",
+      "complement": "水泽节",
+      "nuclear": "风火家人"
+    },
+    "five_elements": {
+      "upper": "金",
+      "lower": "水",
+      "overall": "金"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大凶",
+      "fortune": "处境困难，资源匮乏，需要坚持",
+      "career": "事业遇到困境，发展受阻",
+      "wealth": "财运不佳，经济紧张",
+      "relationship": "感情困顿，关系紧张",
+      "health": "身体疲惫，精神压抑",
+      "advice": "泽无水，困。君子以致命遂志。困而不失其所亨，坚持理想",
+      "suitable": [
+        "坚持",
+        "节约",
+        "求助",
+        "反思",
+        "等待"
+      ],
+      "avoid": [
+        "放弃",
+        "绝望",
+        "冒险",
+        "挥霍"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%9B%B0",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "秋季",
+      "month": "七月",
+      "time": "未时(13-15点)",
+      "direction": "西南",
+      "climate": "泽水困顿"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "兑",
+      "lower_trigram": "坎",
+      "upper_element": "金",
+      "lower_element": "水",
+      "primary_element": "金",
+      "secondary_element": "水",
+      "element_interaction": "金生水，上下相生，和谐发展",
+      "element_details": {
+        "primary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        },
+        "secondary": {
+          "nature": "滋润、寒凉、向下、智慧",
+          "season": "冬季",
+          "direction": "北方",
+          "color": "黑色、蓝色",
+          "organ": "肾、膀胱",
+          "emotion": "恐惧、惊慌",
+          "virtue": "智",
+          "generates": "木",
+          "destroys": "火",
+          "generated_by": "金",
+          "destroyed_by": "土",
+          "characteristics": "主滋润、寒凉，具有向下、收藏的特性",
+          "applications": "适合思考、储蓄、休养、积累能量"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业陷入困境，要寻找出路",
+      "career": "职场困难重重，要坚持不懈",
+      "investment": "投资被套，要耐心等待",
+      "relationships": "感情困顿，要相互支持",
+      "education": "学习困难，要寻求帮助",
+      "health": "身体困乏，要积极调理",
+      "lifestyle": "生活困难，要保持希望"
+    }
+  },
+  "48": {
+    "name": "井",
+    "judgement": "井，改邑不改井，无丧无得，往来井井。汔至亦未繘井，羸其瓶，凶。",
+    "image": "木上有水为井。君子以劳民劝相，取法不涸。",
+    "lines": [
+      "初六：井泥不食，旧井无禽。",
+      "九二：井谷射鲋，瓮敝漏。",
+      "九三：井渫不食，为我心恻；可用汲，王明，并受其福。",
+      "六四：井甃，无咎。",
+      "九五：井洌，寒泉食。",
+      "上六：井收，勿幕；有孚元吉。"
+    ],
+    "id": 48,
+    "pinyin": "jǐng",
+    "alias": [
+      "水风井",
+      "水井卦",
+      "资源卦",
+      "供给卦",
+      "恒定卦"
+    ],
+    "trigrams": {
+      "upper": "坎",
+      "lower": "巽",
+      "upper_symbol": "☵",
+      "lower_symbol": "☴"
+    },
+    "relations": {
+      "inverse": "火雷噬嗑",
+      "complement": "风水涣",
+      "nuclear": "火泽睽"
+    },
+    "five_elements": {
+      "upper": "水",
+      "lower": "木",
+      "overall": "水"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中吉",
+      "fortune": "资源稳定，供给充足，但需要维护",
+      "career": "事业稳定，有固定收入来源",
+      "wealth": "财运稳定，收入来源可靠",
+      "relationship": "感情稳定，关系可靠",
+      "health": "身体健康，生活规律",
+      "advice": "木上有水，井。君子以劳民劝相。取之不尽，用之不竭，但要珍惜",
+      "suitable": [
+        "稳定",
+        "维护",
+        "供给",
+        "服务",
+        "持续"
+      ],
+      "avoid": [
+        "浪费",
+        "污染",
+        "破坏",
+        "枯竭"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E4%BA%95",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春夏之交",
+      "month": "四月",
+      "time": "辰时(7-9点)",
+      "direction": "东南",
+      "climate": "水风井泉"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "坎",
+      "lower_trigram": "巽",
+      "upper_element": "水",
+      "lower_element": "木",
+      "primary_element": "水",
+      "secondary_element": "木",
+      "element_interaction": "水生木，上下相生，和谐发展",
+      "element_details": {
+        "primary": {
+          "nature": "滋润、寒凉、向下、智慧",
+          "season": "冬季",
+          "direction": "北方",
+          "color": "黑色、蓝色",
+          "organ": "肾、膀胱",
+          "emotion": "恐惧、惊慌",
+          "virtue": "智",
+          "generates": "木",
+          "destroys": "火",
+          "generated_by": "金",
+          "destroyed_by": "土",
+          "characteristics": "主滋润、寒凉，具有向下、收藏的特性",
+          "applications": "适合思考、储蓄、休养、积累能量"
+        },
+        "secondary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业要深耕细作，提供价值",
+      "career": "职场要深入专业，提升技能",
+      "investment": "投资要深入研究，长期持有",
+      "relationships": "感情要深入了解，真心相待",
+      "education": "学习要深入钻研，掌握精髓",
+      "health": "身体要深度调养，根本改善",
+      "lifestyle": "生活要深度思考，追求本质"
+    }
+  },
+  "49": {
+    "name": "革",
+    "judgement": "革，己日乃孚，元亨，利贞，悔亡。",
+    "image": "泽中有火为革。君子以治历明时，革故鼎新。",
+    "lines": [
+      "初九：巩用黄牛之革。",
+      "六二：己日乃革之，征吉，无咎。",
+      "九三：征凶，贞厉。革言三就，有孚。",
+      "九四：悔亡，有孚改命，吉。",
+      "九五：大人虎变，未占有孚。",
+      "上六：君子豹变，小人革面；征凶，居贞吉。"
+    ],
+    "id": 49,
+    "pinyin": "gé",
+    "alias": [
+      "泽火革",
+      "变革卦",
+      "改革卦",
+      "革命卦",
+      "变化卦"
+    ],
+    "trigrams": {
+      "upper": "兑",
+      "lower": "离",
+      "upper_symbol": "☱",
+      "lower_symbol": "☲"
+    },
+    "relations": {
+      "inverse": "山水蒙",
+      "complement": "火泽睽",
+      "nuclear": "天风姤"
+    },
+    "five_elements": {
+      "upper": "金",
+      "lower": "火",
+      "overall": "金"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中吉",
+      "fortune": "需要变革创新，旧的不去新的不来",
+      "career": "事业需要改革，创新发展",
+      "wealth": "财运需要新的投资方式",
+      "relationship": "感情需要新的相处模式",
+      "health": "身体需要改变生活方式",
+      "advice": "泽中有火，革。君子以治历明时。革故鼎新，与时俱进",
+      "suitable": [
+        "变革",
+        "创新",
+        "改革",
+        "更新",
+        "转型"
+      ],
+      "avoid": [
+        "守旧",
+        "固执",
+        "抗拒",
+        "保守"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E9%9D%A9",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "秋季",
+      "month": "九月",
+      "time": "酉时(17-19点)",
+      "direction": "西",
+      "climate": "泽火革变"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "兑",
+      "lower_trigram": "离",
+      "upper_element": "金",
+      "lower_element": "火",
+      "primary_element": "金",
+      "secondary_element": "火",
+      "element_interaction": "火克金，下制上，变化之象",
+      "element_details": {
+        "primary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        },
+        "secondary": {
+          "nature": "炎热、向上、光明、礼貌",
+          "season": "夏季",
+          "direction": "南方",
+          "color": "红色、橙色",
+          "organ": "心、小肠",
+          "emotion": "喜悦、兴奋",
+          "virtue": "礼",
+          "generates": "土",
+          "destroys": "金",
+          "generated_by": "木",
+          "destroyed_by": "水",
+          "characteristics": "主炎热、向上，具有光明、温暖的特性",
+          "applications": "适合表达、展示、庆祝、热情投入的事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业需要变革，适应时代",
+      "career": "职场要改变思路，创新发展",
+      "investment": "投资要调整策略，适应市场",
+      "relationships": "感情要改变模式，重新开始",
+      "education": "学习要改变方法，提高效率",
+      "health": "身体要改变习惯，重新调理",
+      "lifestyle": "生活要改变方式，追求进步"
+    }
+  },
+  "50": {
+    "name": "鼎",
+    "judgement": "鼎，元吉，亨。",
+    "image": "木上有火为鼎。君子以正位凝命，善养贤能。",
+    "lines": [
+      "初六：鼎颠趾，利出否，得妾以其子，无咎。",
+      "九二：鼎有实。我仇有疾，不我能即，吉。",
+      "九三：鼎耳革，其行塞；雉膏不食。方雨亏悔，终吉。",
+      "九四：鼎折足，覆公餗，其形渥，凶。",
+      "六五：鼎黄耳金铉，利贞。",
+      "上九：鼎玉铉，大吉，无不利。"
+    ],
+    "id": 50,
+    "pinyin": "dǐng",
+    "alias": [
+      "火风鼎",
+      "鼎器卦",
+      "变革卦",
+      "新生卦",
+      "转化卦"
+    ],
+    "trigrams": {
+      "upper": "离",
+      "lower": "巽",
+      "upper_symbol": "☲",
+      "lower_symbol": "☴"
+    },
+    "relations": {
+      "inverse": "水雷屯",
+      "complement": "风火家人",
+      "nuclear": "泽天夬"
+    },
+    "five_elements": {
+      "upper": "火",
+      "lower": "木",
+      "overall": "火"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "新的开始，转化成功，成就非凡",
+      "career": "事业转型成功，新的发展",
+      "wealth": "财运通过转型获得新突破",
+      "relationship": "感情获得新的发展",
+      "health": "身体获得新的活力",
+      "advice": "木上有火，鼎。君子以正位凝命。鼎新革故，稳固基业",
+      "suitable": [
+        "转型",
+        "创新",
+        "建立",
+        "稳固",
+        "发展"
+      ],
+      "avoid": [
+        "急躁",
+        "不稳",
+        "破坏",
+        "倒退"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E9%BC%8E",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "夏季",
+      "month": "五月",
+      "time": "巳时(9-11点)",
+      "direction": "东南",
+      "climate": "火风鼎新"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "离",
+      "lower_trigram": "巽",
+      "upper_element": "火",
+      "lower_element": "木",
+      "primary_element": "火",
+      "secondary_element": "木",
+      "element_interaction": "木生火，下助上，基础稳固",
+      "element_details": {
+        "primary": {
+          "nature": "炎热、向上、光明、礼貌",
+          "season": "夏季",
+          "direction": "南方",
+          "color": "红色、橙色",
+          "organ": "心、小肠",
+          "emotion": "喜悦、兴奋",
+          "virtue": "礼",
+          "generates": "土",
+          "destroys": "金",
+          "generated_by": "木",
+          "destroyed_by": "水",
+          "characteristics": "主炎热、向上，具有光明、温暖的特性",
+          "applications": "适合表达、展示、庆祝、热情投入的事务"
+        },
+        "secondary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业要建立新秩序，稳固发展",
+      "career": "职场要建立新体系，规范管理",
+      "investment": "投资要建立新组合，平衡风险",
+      "relationships": "感情要建立新关系，稳定发展",
+      "education": "学习要建立新体系，全面发展",
+      "health": "身体要建立新习惯，长期保养",
+      "lifestyle": "生活要建立新秩序，和谐发展"
+    }
+  },
+  "51": {
+    "name": "震",
+    "judgement": "震，亨。震来虩虩，笑言啞啞。震惊百里，不丧匕鬯。",
+    "image": "洊雷为震。君子以恐惧修省，整齐其德。",
+    "lines": [
+      "初九：震来虩虩，后笑言啞啞，吉。",
+      "六二：震来厉，亿丧贝；跻于九陵，勿逐，七日得。",
+      "六三：震苏苏，震行无眚。",
+      "九四：震遂泥。",
+      "六五：震往来厉，亿无丧，有事。",
+      "上六：震索索，视矍矍，征凶。震不于其躬，于其邻，无咎。婚媾有言。"
+    ],
+    "id": 51,
+    "pinyin": "zhèn",
+    "alias": [
+      "震为雷",
+      "雷雷卦",
+      "震动卦",
+      "惊雷卦",
+      "觉醒卦"
+    ],
+    "trigrams": {
+      "upper": "震",
+      "lower": "震",
+      "upper_symbol": "☳",
+      "lower_symbol": "☳"
+    },
+    "relations": {
+      "inverse": "巽为风",
+      "complement": "震为雷",
+      "nuclear": "水山蹇"
+    },
+    "five_elements": {
+      "upper": "木",
+      "lower": "木",
+      "overall": "木"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中平",
+      "fortune": "震动惊醒，需要警觉，但也是机遇",
+      "career": "事业有突然变化，需要适应",
+      "wealth": "财运有波动，需要灵活应对",
+      "relationship": "感情有震动，需要沟通",
+      "health": "身体有警示，需要注意",
+      "advice": "洊雷震。君子以恐惧修省。震惊百里，不丧匕鬯",
+      "suitable": [
+        "警觉",
+        "反省",
+        "适应",
+        "学习",
+        "改进"
+      ],
+      "avoid": [
+        "惊慌",
+        "固执",
+        "逃避",
+        "麻木"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E9%9C%87",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春季",
+      "month": "二月",
+      "time": "寅时(3-5点)",
+      "direction": "东北",
+      "climate": "雷震动"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "震",
+      "lower_trigram": "震",
+      "upper_element": "木",
+      "lower_element": "木",
+      "primary_element": "木",
+      "secondary_element": "木",
+      "element_interaction": "木气纯正，力量集中",
+      "element_details": {
+        "primary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业要应对震荡，保持稳定",
+      "career": "职场要应对变化，灵活适应",
+      "investment": "投资要应对波动，理性操作",
+      "relationships": "感情要应对冲击，相互理解",
+      "education": "学习要应对挑战，勇敢面对",
+      "health": "身体要应对刺激，增强抵抗力",
+      "lifestyle": "生活要应对变化，保持平衡"
+    }
+  },
+  "52": {
+    "name": "艮",
+    "judgement": "艮其背，不获其身；行其庭，不见其人，无咎。",
+    "image": "兼山为艮。君子以思不出其位，安静以止。",
+    "lines": [
+      "初六：艮其趾，无咎，利永贞。",
+      "六二：艮其腓，不拯其随，其心不快。",
+      "九三：艮其限，列其夤，厉薰心。",
+      "六四：艮其身，无咎。",
+      "六五：艮其辅，言有序，悔亡。",
+      "上九：敦艮，吉。"
+    ],
+    "id": 52,
+    "pinyin": "gèn",
+    "alias": [
+      "艮为山",
+      "山山卦",
+      "静止卦",
+      "稳定卦",
+      "止息卦"
+    ],
+    "trigrams": {
+      "upper": "艮",
+      "lower": "艮",
+      "upper_symbol": "☶",
+      "lower_symbol": "☶"
+    },
+    "relations": {
+      "inverse": "兑为泽",
+      "complement": "艮为山",
+      "nuclear": "雷水解"
+    },
+    "five_elements": {
+      "upper": "土",
+      "lower": "土",
+      "overall": "土"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中平",
+      "fortune": "宜静不宜动，保持稳定，等待时机",
+      "career": "事业宜稳不宜变，巩固基础",
+      "wealth": "财运平稳，宜保守理财",
+      "relationship": "感情稳定，不宜有大变化",
+      "health": "身体稳定，注意静养",
+      "advice": "兼山艮。君子以思不出其位。知止而后有定，静以修身",
+      "suitable": [
+        "静养",
+        "稳定",
+        "思考",
+        "修身",
+        "等待"
+      ],
+      "avoid": [
+        "急躁",
+        "冒进",
+        "变动",
+        "浮躁"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E8%89%AE",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "冬春之交",
+      "month": "十二月",
+      "time": "子时(23-1点)",
+      "direction": "北",
+      "climate": "山止静"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "艮",
+      "lower_trigram": "艮",
+      "upper_element": "土",
+      "lower_element": "土",
+      "primary_element": "土",
+      "secondary_element": "土",
+      "element_interaction": "土气纯正，力量集中",
+      "element_details": {
+        "primary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业要适时停止，重新思考",
+      "career": "职场要暂停行动，观察形势",
+      "investment": "投资要暂停操作，等待时机",
+      "relationships": "感情要冷静思考，不要冲动",
+      "education": "学习要停下反思，总结经验",
+      "health": "身体要静养休息，恢复精力",
+      "lifestyle": "生活要静心思考，寻找方向"
+    }
+  },
+  "53": {
+    "name": "渐",
+    "judgement": "渐，女归吉，利贞。",
+    "image": "山上有木为渐。君子以居贤德，善化民俗。",
+    "lines": [
+      "初六：鸿渐于干；小子厉，有言；无咎。",
+      "六二：鸿渐于磐，饮食衎衎，吉。",
+      "九三：鸿渐于陆。夫征不复，妇孕不育，凶；利御寇。",
+      "六四：鸿渐于木，或得其桷，无咎。",
+      "九五：鸿渐于陵。妇三岁不孕，终莫之胜，吉。",
+      "上九：鸿渐于逵，其羽可用为仪，吉。"
+    ],
+    "id": 53,
+    "pinyin": "jiàn",
+    "alias": [
+      "风山渐",
+      "渐进卦",
+      "循序卦",
+      "缓慢卦",
+      "稳步卦"
+    ],
+    "trigrams": {
+      "upper": "巽",
+      "lower": "艮",
+      "upper_symbol": "☴",
+      "lower_symbol": "☶"
+    },
+    "relations": {
+      "inverse": "雷泽归妹",
+      "complement": "山风蛊",
+      "nuclear": "火水未济"
+    },
+    "five_elements": {
+      "upper": "木",
+      "lower": "土",
+      "overall": "木"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "循序渐进，稳步发展，前景光明",
+      "career": "事业稳步发展，按部就班",
+      "wealth": "财运稳定增长，积少成多",
+      "relationship": "感情稳步发展，水到渠成",
+      "health": "身体逐渐改善，恢复健康",
+      "advice": "山上有木，渐。君子以居贤德善俗。循序渐进，水到渠成",
+      "suitable": [
+        "渐进",
+        "稳步",
+        "积累",
+        "耐心",
+        "持续"
+      ],
+      "avoid": [
+        "急躁",
+        "冒进",
+        "跳跃",
+        "间断"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/六十四卦#%E6%B8%90",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春季",
+      "month": "三月",
+      "time": "卯时(5-7点)",
+      "direction": "东",
+      "climate": "风山渐进"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "巽",
+      "lower_trigram": "艮",
+      "upper_element": "木",
+      "lower_element": "土",
+      "primary_element": "木",
+      "secondary_element": "土",
+      "element_interaction": "木克土，上制下，需要平衡",
+      "element_details": {
+        "primary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        },
+        "secondary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业要循序渐进，稳步发展",
+      "career": "职场要逐步提升，不急不躁",
+      "investment": "投资要分批进入，降低风险",
+      "relationships": "感情要慢慢培养，水到渠成",
+      "education": "学习要循序渐进，打好基础",
+      "health": "身体要逐步调理，慢慢改善",
+      "lifestyle": "生活要按部就班，稳中求进"
+    }
+  },
+  "54": {
+    "name": "归妹",
+    "judgement": "归妹，征凶，无攸利。",
+    "image": "泽上有雷为归妹。君子以永终知敝。",
+    "lines": [
+      "初九：归妹以娣；跛能履，征吉。",
+      "九二：眇能视；利幽人之贞。",
+      "六三：归妹以须；反归以娣。",
+      "九四：归妹愆期，迟归有时。",
+      "六五：帝乙归妹，其君之袂不如其娣之袂良；月几望，吉。",
+      "上六：女承筐无实，士刲羊无血，无攸利。"
+    ],
+    "id": 54,
+    "pinyin": "guī mèi",
+    "alias": [
+      "雷泽归妹",
+      "出嫁卦",
+      "婚姻卦",
+      "归属卦",
+      "结合卦"
+    ],
+    "trigrams": {
+      "upper": "震",
+      "lower": "兑",
+      "upper_symbol": "☳",
+      "lower_symbol": "☱"
+    },
+    "relations": {
+      "inverse": "风山渐",
+      "complement": "泽雷随",
+      "nuclear": "水火既济"
+    },
+    "five_elements": {
+      "upper": "木",
+      "lower": "金",
+      "overall": "木"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "小凶",
+      "fortune": "感情用事，需要理性思考",
+      "career": "工作中易感情用事，需要冷静",
+      "wealth": "财运受情绪影响，需要理性",
+      "relationship": "感情冲动，需要冷静思考",
+      "health": "情绪波动大，影响健康",
+      "advice": "雷泽归妹。君子以永终知敝。感情要理性，冲动是魔鬼",
+      "suitable": [
+        "冷静",
+        "理性",
+        "思考",
+        "等待",
+        "观察"
+      ],
+      "avoid": [
+        "冲动",
+        "感情用事",
+        "急于求成",
+        "盲目"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/六十四卦#%E5%BD%92%E5%A6%B9",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "秋季",
+      "month": "七月",
+      "time": "未时(13-15点)",
+      "direction": "西南",
+      "climate": "雷泽归妹"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "震",
+      "lower_trigram": "兑",
+      "upper_element": "木",
+      "lower_element": "金",
+      "primary_element": "木",
+      "secondary_element": "金",
+      "element_interaction": "金克木，下制上，变化之象",
+      "element_details": {
+        "primary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        },
+        "secondary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业合作要慎重，避免冲动",
+      "career": "职场决策要理性，不要感情用事",
+      "investment": "投资要理性分析，不要跟风",
+      "relationships": "感情要理性对待，不要盲目",
+      "education": "学习要理性选择，不要盲从",
+      "health": "身体要理性保养，不要过度",
+      "lifestyle": "生活要理性规划，不要冲动"
+    }
+  },
+  "55": {
+    "name": "丰",
+    "judgement": "丰，亨。王假之，勿忧；宜日中。",
+    "image": "雷电皆至为丰。君子以折狱致刑，明辨是非。",
+    "lines": [
+      "初九：遇其配主，虽旬无咎，往有尚。",
+      "六二：丰其蔀，日中见斗；往得疑疾，有孚发若，吉。",
+      "九三：丰其沛，日中见昧；折其右肱，无咎。",
+      "九四：丰其蔀，日中见斗；遇其夷主，吉。",
+      "六五：来章，有庆誉，吉。",
+      "上六：丰其屋，蔀其家；窥其户，阒其无人；三岁不觌，凶。"
+    ],
+    "id": 55,
+    "pinyin": "fēng",
+    "alias": [
+      "雷火丰",
+      "丰盛卦",
+      "丰收卦",
+      "繁荣卦",
+      "充实卦"
+    ],
+    "trigrams": {
+      "upper": "震",
+      "lower": "离",
+      "upper_symbol": "☳",
+      "lower_symbol": "☲"
+    },
+    "relations": {
+      "inverse": "风水涣",
+      "complement": "火雷噬嗑",
+      "nuclear": "泽风大过"
+    },
+    "five_elements": {
+      "upper": "木",
+      "lower": "火",
+      "overall": "木"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "丰收在望，成果丰硕，但要居安思危",
+      "career": "事业成功，收获丰厚",
+      "wealth": "财运极佳，收入丰厚",
+      "relationship": "感情丰富，关系美满",
+      "health": "身体健康，精力充沛",
+      "advice": "雷电皆至，丰。君子以折狱致刑。丰盛之时，要居安思危",
+      "suitable": [
+        "享受",
+        "庆祝",
+        "分享",
+        "感恩",
+        "储备"
+      ],
+      "avoid": [
+        "骄傲",
+        "挥霍",
+        "忘形",
+        "浪费"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E4%B8%B0",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "夏季",
+      "month": "六月",
+      "time": "午时(11-13点)",
+      "direction": "南",
+      "climate": "雷火丰盛"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "震",
+      "lower_trigram": "离",
+      "upper_element": "木",
+      "lower_element": "火",
+      "primary_element": "木",
+      "secondary_element": "火",
+      "element_interaction": "木生火，上下相生，和谐发展",
+      "element_details": {
+        "primary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        },
+        "secondary": {
+          "nature": "炎热、向上、光明、礼貌",
+          "season": "夏季",
+          "direction": "南方",
+          "color": "红色、橙色",
+          "organ": "心、小肠",
+          "emotion": "喜悦、兴奋",
+          "virtue": "礼",
+          "generates": "土",
+          "destroys": "金",
+          "generated_by": "木",
+          "destroyed_by": "水",
+          "characteristics": "主炎热、向上，具有光明、温暖的特性",
+          "applications": "适合表达、展示、庆祝、热情投入的事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业繁荣昌盛，但要居安思危",
+      "career": "职场成就辉煌，要保持谦逊",
+      "investment": "投资收益丰厚，要适度获利",
+      "relationships": "感情丰富多彩，要珍惜当下",
+      "education": "学习成果丰硕，要继续努力",
+      "health": "身体状况良好，要继续保养",
+      "lifestyle": "生活丰富多彩，要感恩知足"
+    }
+  },
+  "56": {
+    "name": "旅",
+    "judgement": "旅，小亨。旅贞吉。",
+    "image": "山上有火为旅。君子以明慎用刑，而不留狱。",
+    "lines": [
+      "初六：旅琐琐，斯其所取灾。",
+      "六二：旅即次，怀其资，得童仆贞。",
+      "九三：旅焚其次，丧其童仆，贞厉。",
+      "九四：旅于处，得其资斧，我心不快。",
+      "六五：射雉一矢亡，终以誉命。",
+      "上九：鸟焚其巢；旅人先笑后号啕。丧牛于易，凶。"
+    ],
+    "id": 56,
+    "pinyin": "lǚ",
+    "alias": [
+      "火山旅",
+      "旅行卦",
+      "漂泊卦",
+      "流浪卦",
+      "客居卦"
+    ],
+    "trigrams": {
+      "upper": "离",
+      "lower": "艮",
+      "upper_symbol": "☲",
+      "lower_symbol": "☶"
+    },
+    "relations": {
+      "inverse": "水泽节",
+      "complement": "山火贲",
+      "nuclear": "泽风大过"
+    },
+    "five_elements": {
+      "upper": "火",
+      "lower": "土",
+      "overall": "火"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "小凶",
+      "fortune": "漂泊不定，居无定所，需要适应",
+      "career": "工作不稳定，需要灵活应对",
+      "wealth": "财运不稳，收入不定",
+      "relationship": "感情不稳定，聚少离多",
+      "health": "身体疲劳，需要休息",
+      "advice": "山上有火，旅。君子以明慎用刑，而不留狱。在外靠朋友，谦逊待人",
+      "suitable": [
+        "适应",
+        "灵活",
+        "谦逊",
+        "交友",
+        "学习"
+      ],
+      "avoid": [
+        "固执",
+        "孤立",
+        "骄傲",
+        "挥霍"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E6%97%85",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "夏秋之交",
+      "month": "六月",
+      "time": "午时(11-13点)",
+      "direction": "南",
+      "climate": "火山旅行"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "离",
+      "lower_trigram": "艮",
+      "upper_element": "火",
+      "lower_element": "土",
+      "primary_element": "火",
+      "secondary_element": "土",
+      "element_interaction": "火生土，上下相生，和谐发展",
+      "element_details": {
+        "primary": {
+          "nature": "炎热、向上、光明、礼貌",
+          "season": "夏季",
+          "direction": "南方",
+          "color": "红色、橙色",
+          "organ": "心、小肠",
+          "emotion": "喜悦、兴奋",
+          "virtue": "礼",
+          "generates": "土",
+          "destroys": "金",
+          "generated_by": "木",
+          "destroyed_by": "水",
+          "characteristics": "主炎热、向上，具有光明、温暖的特性",
+          "applications": "适合表达、展示、庆祝、热情投入的事务"
+        },
+        "secondary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业要灵活机动，适应环境",
+      "career": "职场要适应变化，保持灵活",
+      "investment": "投资要分散风险，灵活调整",
+      "relationships": "感情要适应距离，保持联系",
+      "education": "学习要开阔视野，增长见识",
+      "health": "身体要适应环境，增强体质",
+      "lifestyle": "生活要保持开放，拥抱变化"
+    }
+  },
+  "57": {
+    "name": "巽",
+    "judgement": "巽，小亨。利有攸往，利见大人。",
+    "image": "随风入木为巽。君子以申命行事，反复以敬。",
+    "lines": [
+      "初六：进退，利武人之贞。",
+      "九二：巽在床下；用史巫纷若，吉无咎。",
+      "九三：频巽，吝。",
+      "六四：悔亡；田获三品。",
+      "九五：贞吉，悔亡，无不利；无初有终。",
+      "上九：巽在床下，丧其资斧，贞凶。"
+    ],
+    "id": 57,
+    "pinyin": "xùn",
+    "alias": [
+      "巽为风",
+      "风风卦",
+      "顺从卦",
+      "温和卦",
+      "渗透卦"
+    ],
+    "trigrams": {
+      "upper": "巽",
+      "lower": "巽",
+      "upper_symbol": "☴",
+      "lower_symbol": "☴"
+    },
+    "relations": {
+      "inverse": "震为雷",
+      "complement": "巽为风",
+      "nuclear": "火泽睽"
+    },
+    "five_elements": {
+      "upper": "木",
+      "lower": "木",
+      "overall": "木"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中吉",
+      "fortune": "顺风而行，温和渐进，润物无声",
+      "career": "事业发展顺利，温和进取",
+      "wealth": "财运平稳，细水长流",
+      "relationship": "感情温和，相处和谐",
+      "health": "身体健康，心情平和",
+      "advice": "随风巽。君子以申命行事。温和而坚持，柔中有刚",
+      "suitable": [
+        "温和",
+        "渐进",
+        "顺应",
+        "坚持",
+        "细致"
+      ],
+      "avoid": [
+        "急躁",
+        "强硬",
+        "粗暴",
+        "放弃"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%B7%BD",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春夏之交",
+      "month": "四月",
+      "time": "辰时(7-9点)",
+      "direction": "东南",
+      "climate": "风顺柔"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "巽",
+      "lower_trigram": "巽",
+      "upper_element": "木",
+      "lower_element": "木",
+      "primary_element": "木",
+      "secondary_element": "木",
+      "element_interaction": "木气纯正，力量集中",
+      "element_details": {
+        "primary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业要顺势而为，灵活应变",
+      "career": "职场要顺从领导，配合团队",
+      "investment": "投资要顺应趋势，灵活操作",
+      "relationships": "感情要相互迁就，和谐相处",
+      "education": "学习要顺应规律，循序渐进",
+      "health": "身体要顺应自然，调节作息",
+      "lifestyle": "生活要顺其自然，保持平和"
+    }
+  },
+  "58": {
+    "name": "兑",
+    "judgement": "兑，亨，利贞。",
+    "image": "丽泽为兑。君子以朋友讲习，切磋成德。",
+    "lines": [
+      "初九：和兑，吉。",
+      "九二：孚兑，吉，悔亡。",
+      "六三：来兑，凶。",
+      "九四：商兑未宁，介疾有喜。",
+      "九五：孚于剥，有厉。",
+      "上六：引兑。"
+    ],
+    "id": 58,
+    "pinyin": "duì",
+    "alias": [
+      "兑为泽",
+      "泽泽卦",
+      "喜悦卦",
+      "快乐卦",
+      "交流卦"
+    ],
+    "trigrams": {
+      "upper": "兑",
+      "lower": "兑",
+      "upper_symbol": "☱",
+      "lower_symbol": "☱"
+    },
+    "relations": {
+      "inverse": "艮为山",
+      "complement": "兑为泽",
+      "nuclear": "风火家人"
+    },
+    "five_elements": {
+      "upper": "金",
+      "lower": "金",
+      "overall": "金"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "心情愉悦，人际和谐，喜事连连",
+      "career": "工作愉快，同事关系好",
+      "wealth": "财运不错，有意外收获",
+      "relationship": "感情甜蜜，朋友众多",
+      "health": "身心愉悦，健康状况好",
+      "advice": "丽泽兑。君子以朋友讲习。喜悦要适度，乐极生悲",
+      "suitable": [
+        "交流",
+        "学习",
+        "庆祝",
+        "社交",
+        "分享"
+      ],
+      "avoid": [
+        "过度兴奋",
+        "得意忘形",
+        "轻浮",
+        "放纵"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%85%91",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "秋季",
+      "month": "九月",
+      "time": "酉时(17-19点)",
+      "direction": "西",
+      "climate": "泽悦喜"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "兑",
+      "lower_trigram": "兑",
+      "upper_element": "金",
+      "lower_element": "金",
+      "primary_element": "金",
+      "secondary_element": "金",
+      "element_interaction": "金气纯正，力量集中",
+      "element_details": {
+        "primary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业要注重沟通，建立关系",
+      "career": "职场要善于交流，建立人脉",
+      "investment": "投资要多方交流，获取信息",
+      "relationships": "感情要开心交流，增进感情",
+      "education": "学习要积极讨论，交流心得",
+      "health": "身体要保持愉悦，心情舒畅",
+      "lifestyle": "生活要充满欢乐，积极社交"
+    }
+  },
+  "59": {
+    "name": "涣",
+    "judgement": "涣，亨。王假有庙；利涉大川；利贞。",
+    "image": "风行水上为涣。君子以散财解患。",
+    "lines": [
+      "初六：用拯马壮，吉。",
+      "九二：涣奔其机，悔亡。",
+      "六三：涣其躬，无悔。",
+      "六四：涣其群，元吉；涣有丘，匪夷所思。",
+      "九五：涣汗其大号；涣王居，无咎。",
+      "上九：涣其血，去逖出，无咎。"
+    ],
+    "id": 59,
+    "pinyin": "huàn",
+    "alias": [
+      "风水涣",
+      "涣散卦",
+      "分散卦",
+      "消散卦",
+      "解散卦"
+    ],
+    "trigrams": {
+      "upper": "巽",
+      "lower": "坎",
+      "upper_symbol": "☴",
+      "lower_symbol": "☵"
+    },
+    "relations": {
+      "inverse": "雷火丰",
+      "complement": "水风井",
+      "nuclear": "山雷颐"
+    },
+    "five_elements": {
+      "upper": "木",
+      "lower": "水",
+      "overall": "木"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中平",
+      "fortune": "分散聚集，需要重新整合",
+      "career": "工作分散，需要整合资源",
+      "wealth": "财运分散，需要集中管理",
+      "relationship": "感情分散，需要重新聚合",
+      "health": "精神分散，需要集中注意力",
+      "advice": "风行水上，涣。先王以享于帝立庙。分而后合，散而复聚",
+      "suitable": [
+        "整合",
+        "聚集",
+        "重组",
+        "统一",
+        "协调"
+      ],
+      "avoid": [
+        "继续分散",
+        "各自为政",
+        "缺乏统一"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/六十四卦#%E6%B6%A3",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春季",
+      "month": "三月",
+      "time": "卯时(5-7点)",
+      "direction": "东",
+      "climate": "风水涣散"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "巽",
+      "lower_trigram": "坎",
+      "upper_element": "木",
+      "lower_element": "水",
+      "primary_element": "木",
+      "secondary_element": "水",
+      "element_interaction": "水生木，下助上，基础稳固",
+      "element_details": {
+        "primary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        },
+        "secondary": {
+          "nature": "滋润、寒凉、向下、智慧",
+          "season": "冬季",
+          "direction": "北方",
+          "color": "黑色、蓝色",
+          "organ": "肾、膀胱",
+          "emotion": "恐惧、惊慌",
+          "virtue": "智",
+          "generates": "木",
+          "destroys": "火",
+          "generated_by": "金",
+          "destroyed_by": "土",
+          "characteristics": "主滋润、寒凉，具有向下、收藏的特性",
+          "applications": "适合思考、储蓄、休养、积累能量"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业要化解分歧，重新整合",
+      "career": "职场要化解矛盾，团结合作",
+      "investment": "投资要分散风险，重新配置",
+      "relationships": "感情要化解误会，重归于好",
+      "education": "学习要化解困惑，重新理解",
+      "health": "身体要化解郁结，疏通经络",
+      "lifestyle": "生活要化解烦恼，重新开始"
+    }
+  },
+  "60": {
+    "name": "节",
+    "judgement": "节，亨。苦节不可贞。",
+    "image": "水泽为节。君子以制数度，议德行。",
+    "lines": [
+      "初九：不出户庭，无咎。",
+      "九二：不出门庭，凶。",
+      "六三：不节若，则嗟若；无咎。",
+      "六四：安节，亨。",
+      "九五：甘节，吉；往有尚。",
+      "上六：苦节，贞凶，悔亡。"
+    ],
+    "id": 60,
+    "pinyin": "jié",
+    "alias": [
+      "水泽节",
+      "节制卦",
+      "节约卦",
+      "限制卦",
+      "调节卦"
+    ],
+    "trigrams": {
+      "upper": "坎",
+      "lower": "兑",
+      "upper_symbol": "☵",
+      "lower_symbol": "☱"
+    },
+    "relations": {
+      "inverse": "火山旅",
+      "complement": "泽水困",
+      "nuclear": "山雷颐"
+    },
+    "five_elements": {
+      "upper": "水",
+      "lower": "金",
+      "overall": "水"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中吉",
+      "fortune": "需要节制约束，适度为宜",
+      "career": "事业需要节制，不宜过度扩张",
+      "wealth": "财运需要节制，理性消费",
+      "relationship": "感情需要节制，适度表达",
+      "health": "身体需要节制，规律生活",
+      "advice": "泽上有水，节。君子以制数度，议德行。节制是智慧，过犹不及",
+      "suitable": [
+        "节制",
+        "约束",
+        "规律",
+        "适度",
+        "自律"
+      ],
+      "avoid": [
+        "过度",
+        "放纵",
+        "无节制",
+        "极端"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E8%8A%82",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "冬季",
+      "month": "十一月",
+      "time": "亥时(21-23点)",
+      "direction": "北",
+      "climate": "水泽节制"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "坎",
+      "lower_trigram": "兑",
+      "upper_element": "水",
+      "lower_element": "金",
+      "primary_element": "水",
+      "secondary_element": "金",
+      "element_interaction": "金生水，下助上，基础稳固",
+      "element_details": {
+        "primary": {
+          "nature": "滋润、寒凉、向下、智慧",
+          "season": "冬季",
+          "direction": "北方",
+          "color": "黑色、蓝色",
+          "organ": "肾、膀胱",
+          "emotion": "恐惧、惊慌",
+          "virtue": "智",
+          "generates": "木",
+          "destroys": "火",
+          "generated_by": "金",
+          "destroyed_by": "土",
+          "characteristics": "主滋润、寒凉，具有向下、收藏的特性",
+          "applications": "适合思考、储蓄、休养、积累能量"
+        },
+        "secondary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业要适度节制，控制成本",
+      "career": "职场要有所节制，把握分寸",
+      "investment": "投资要控制风险，适度投入",
+      "relationships": "感情要有所节制，保持距离",
+      "education": "学习要有所节制，劳逸结合",
+      "health": "身体要节制欲望，保持平衡",
+      "lifestyle": "生活要有节制，适度享受"
+    }
+  },
+  "61": {
+    "name": "中孚",
+    "judgement": "中孚，豚鱼吉；利涉大川；利贞。",
+    "image": "泽上有风为中孚。君子以议狱缓死。",
+    "lines": [
+      "初九：虞吉；有它不燕。",
+      "九二：鸣鹤在阴，其子和之；我有好爵，吾与尔靡之。",
+      "六三：得敌，或鼓或罢；或泣或歌。",
+      "六四：月几望；马匹亡，无咎。",
+      "九五：有孚挛如，无咎。",
+      "上九：翰音登于天，贞凶。"
+    ],
+    "id": 61,
+    "pinyin": "zhōng fú",
+    "alias": [
+      "风泽中孚",
+      "诚信卦",
+      "信任卦",
+      "忠诚卦",
+      "真诚卦"
+    ],
+    "trigrams": {
+      "upper": "巽",
+      "lower": "兑",
+      "upper_symbol": "☴",
+      "lower_symbol": "☱"
+    },
+    "relations": {
+      "inverse": "雷山小过",
+      "complement": "泽风大过",
+      "nuclear": "山雷颐"
+    },
+    "five_elements": {
+      "upper": "木",
+      "lower": "金",
+      "overall": "木"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "诚信为本，心诚则灵，感化他人",
+      "career": "事业以诚待人，获得信任",
+      "wealth": "财运通过诚信获得",
+      "relationship": "感情真诚，相互信任",
+      "health": "身心诚正，健康和谐",
+      "advice": "泽上有风，中孚。君子以议狱缓死。诚信是立身之本，真诚感化人心",
+      "suitable": [
+        "诚信",
+        "真诚",
+        "信任",
+        "感化",
+        "正直"
+      ],
+      "avoid": [
+        "虚假",
+        "欺骗",
+        "不诚",
+        "算计"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%AD%9A",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "秋季",
+      "month": "九月",
+      "time": "酉时(17-19点)",
+      "direction": "西",
+      "climate": "风泽中孚"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "巽",
+      "lower_trigram": "兑",
+      "upper_element": "木",
+      "lower_element": "金",
+      "primary_element": "木",
+      "secondary_element": "金",
+      "element_interaction": "金克木，下制上，变化之象",
+      "element_details": {
+        "primary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        },
+        "secondary": {
+          "nature": "收敛、肃杀、坚硬、清洁",
+          "season": "秋季",
+          "direction": "西方",
+          "color": "白色、金色",
+          "organ": "肺、大肠",
+          "emotion": "悲伤、忧愁",
+          "virtue": "义",
+          "generates": "水",
+          "destroys": "木",
+          "generated_by": "土",
+          "destroyed_by": "火",
+          "characteristics": "主收敛、肃杀，具有清洁、坚硬的特性",
+          "applications": "适合决断、整理、清理、收尾工作"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业要诚信经营，建立信任",
+      "career": "职场要真诚待人，获得信任",
+      "investment": "投资要诚实面对，理性决策",
+      "relationships": "感情要真心相待，相互信任",
+      "education": "学习要诚实面对，不自欺欺人",
+      "health": "身体要诚实面对，及时治疗",
+      "lifestyle": "生活要真诚待人，建立信任"
+    }
+  },
+  "62": {
+    "name": "小过",
+    "judgement": "小过，亨。利贞。可小事，不可大事。飞鸟遗之音，不宜上，宜下，大吉。",
+    "image": "雷在山上为小过。君子以行过乎恭，丧过乎哀，用过乎俭。",
+    "lines": [
+      "初六：飞鸟以凶。",
+      "六二：过其祖，遇其妣；不及其君，遇其臣；无咎。",
+      "九三：弗过防之；从或戕之，凶。",
+      "九四：无咎；弗过遇之。往厉必戒；勿用永贞。",
+      "六五：密云不雨，自我西郊；公弋取彼在穴。",
+      "上六：弗遇过之；飞鸟离之，凶；是谓灾眚。"
+    ],
+    "id": 62,
+    "pinyin": "xiǎo guò",
+    "alias": [
+      "雷山小过",
+      "小过度卦",
+      "小错卦",
+      "轻微卦",
+      "谨慎卦"
+    ],
+    "trigrams": {
+      "upper": "震",
+      "lower": "艮",
+      "upper_symbol": "☳",
+      "lower_symbol": "☶"
+    },
+    "relations": {
+      "inverse": "风泽中孚",
+      "complement": "山雷颐",
+      "nuclear": "泽风大过"
+    },
+    "five_elements": {
+      "upper": "木",
+      "lower": "土",
+      "overall": "木"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "小凶",
+      "fortune": "小有过错，需要谨慎行事",
+      "career": "工作中有小失误，需要改正",
+      "wealth": "财运有小损失，需要谨慎",
+      "relationship": "感情有小摩擦，需要沟通",
+      "health": "身体有小毛病，需要注意",
+      "advice": "山上有雷，小过。君子以行过乎恭，丧过乎哀，用过乎俭。小心谨慎，过犹不及",
+      "suitable": [
+        "谨慎",
+        "改正",
+        "反思",
+        "小心",
+        "节制"
+      ],
+      "avoid": [
+        "大意",
+        "过度",
+        "冒险",
+        "急躁"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%BF%87",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "春季",
+      "month": "二月",
+      "time": "寅时(3-5点)",
+      "direction": "东北",
+      "climate": "雷山小过"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "震",
+      "lower_trigram": "艮",
+      "upper_element": "木",
+      "lower_element": "土",
+      "primary_element": "木",
+      "secondary_element": "土",
+      "element_interaction": "木克土，上制下，需要平衡",
+      "element_details": {
+        "primary": {
+          "nature": "生长、舒展、条达、仁慈",
+          "season": "春季",
+          "direction": "东方",
+          "color": "青色、绿色",
+          "organ": "肝、胆",
+          "emotion": "愤怒、急躁",
+          "virtue": "仁",
+          "generates": "火",
+          "destroys": "土",
+          "generated_by": "水",
+          "destroyed_by": "金",
+          "characteristics": "主生长、升发，具有条达、舒展的特性",
+          "applications": "适合创新、开拓、学习、成长相关事务"
+        },
+        "secondary": {
+          "nature": "承载、包容、稳重、诚信",
+          "season": "长夏(四季之末)",
+          "direction": "中央",
+          "color": "黄色、棕色",
+          "organ": "脾、胃",
+          "emotion": "思虑、忧思",
+          "virtue": "信",
+          "generates": "金",
+          "destroys": "水",
+          "generated_by": "火",
+          "destroyed_by": "木",
+          "characteristics": "主承载、包容，具有稳重、厚德的特性",
+          "applications": "适合稳定、建设、协调、中介相关事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业要注意细节，避免小错",
+      "career": "职场要谨慎行事，避免失误",
+      "investment": "投资要注意风险，小心操作",
+      "relationships": "感情要注意细节，避免误会",
+      "education": "学习要注意基础，避免遗漏",
+      "health": "身体要注意小病，及时预防",
+      "lifestyle": "生活要注意细节，避免疏忽"
+    }
+  },
+  "63": {
+    "name": "既济",
+    "judgement": "既济，亨小，利贞。初吉终乱。",
+    "image": "水在火上为既济。君子以思患而预防。",
+    "lines": [
+      "初九：曳其轮，濡其尾，无咎。",
+      "六二：妇丧其茀，勿逐，七日得。",
+      "九三：高宗伐鬼方，三年克之，小人勿用。",
+      "六四：繻有衣袽，终日戒。",
+      "九五：东邻杀牛，不如西邻之禴祭，实受其福。",
+      "上六：濡其首，厉。"
+    ],
+    "id": 63,
+    "pinyin": "jì jì",
+    "alias": [
+      "水火既济",
+      "已完成卦",
+      "成功卦",
+      "完美卦",
+      "圆满卦"
+    ],
+    "trigrams": {
+      "upper": "坎",
+      "lower": "离",
+      "upper_symbol": "☵",
+      "lower_symbol": "☲"
+    },
+    "relations": {
+      "inverse": "火水未济",
+      "complement": "火水未济",
+      "nuclear": "火水未济"
+    },
+    "five_elements": {
+      "upper": "水",
+      "lower": "火",
+      "overall": "水"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "大吉",
+      "fortune": "功德圆满，大功告成，但要居安思危",
+      "career": "事业成功，达到目标",
+      "wealth": "财运极佳，收获丰厚",
+      "relationship": "感情圆满，关系和谐",
+      "health": "身体健康，精神饱满",
+      "advice": "水在火上，既济。君子以思患而豫防之。成功之后要居安思危，防患未然",
+      "suitable": [
+        "庆祝",
+        "享受",
+        "感恩",
+        "总结",
+        "防范"
+      ],
+      "avoid": [
+        "骄傲自满",
+        "松懈",
+        "忘乎所以",
+        "不思进取"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/六十四卦#%E6%97%A2%E6%B5%8E",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "冬季",
+      "month": "十一月",
+      "time": "亥时(21-23点)",
+      "direction": "北",
+      "climate": "水火既济"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "坎",
+      "lower_trigram": "离",
+      "upper_element": "水",
+      "lower_element": "火",
+      "primary_element": "水",
+      "secondary_element": "火",
+      "element_interaction": "水克火，上制下，需要平衡",
+      "element_details": {
+        "primary": {
+          "nature": "滋润、寒凉、向下、智慧",
+          "season": "冬季",
+          "direction": "北方",
+          "color": "黑色、蓝色",
+          "organ": "肾、膀胱",
+          "emotion": "恐惧、惊慌",
+          "virtue": "智",
+          "generates": "木",
+          "destroys": "火",
+          "generated_by": "金",
+          "destroyed_by": "土",
+          "characteristics": "主滋润、寒凉，具有向下、收藏的特性",
+          "applications": "适合思考、储蓄、休养、积累能量"
+        },
+        "secondary": {
+          "nature": "炎热、向上、光明、礼貌",
+          "season": "夏季",
+          "direction": "南方",
+          "color": "红色、橙色",
+          "organ": "心、小肠",
+          "emotion": "喜悦、兴奋",
+          "virtue": "礼",
+          "generates": "土",
+          "destroys": "金",
+          "generated_by": "木",
+          "destroyed_by": "水",
+          "characteristics": "主炎热、向上，具有光明、温暖的特性",
+          "applications": "适合表达、展示、庆祝、热情投入的事务"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业已经成功，要保持现状",
+      "career": "职场已经稳定，要继续努力",
+      "investment": "投资已经成功，要适度获利",
+      "relationships": "感情已经稳定，要珍惜维护",
+      "education": "学习已有成就，要继续深造",
+      "health": "身体已经健康，要继续保养",
+      "lifestyle": "生活已经美满，要感恩知足"
+    }
+  },
+  "64": {
+    "name": "未济",
+    "judgement": "未济，亨，小狐汔济，濡其尾，无攸利。",
+    "image": "火在水上为未济。君子以慎辨物类，各得其所。",
+    "lines": [
+      "初六：濡其尾，吝。",
+      "九二：曳其轮，贞吉。",
+      "六三：未济，征凶，利涉大川。",
+      "九四：贞吉，悔亡。震用伐鬼方，三年有赏于大国。",
+      "六五：贞吉，无悔。君子之光，有孚，吉。",
+      "上九：有孚于饮酒，无咎。濡其首，有孚失是。"
+    ],
+    "id": 64,
+    "pinyin": "wèi jì",
+    "alias": [
+      "火水未济",
+      "未完成卦",
+      "未竟卦",
+      "待续卦",
+      "潜力卦"
+    ],
+    "trigrams": {
+      "upper": "离",
+      "lower": "坎",
+      "upper_symbol": "☲",
+      "lower_symbol": "☵"
+    },
+    "relations": {
+      "inverse": "水火既济",
+      "complement": "水火既济",
+      "nuclear": "水火既济"
+    },
+    "five_elements": {
+      "upper": "火",
+      "lower": "水",
+      "overall": "火"
+    },
+    "tags": [],
+    "fortune": {
+      "overall": "中平",
+      "fortune": "尚未完成，仍有潜力，需要继续努力",
+      "career": "事业尚未完成，还有发展空间",
+      "wealth": "财运有潜力，需要继续努力",
+      "relationship": "感情还在发展，有进步空间",
+      "health": "身体在恢复，需要继续调养",
+      "advice": "火在水上，未济。君子以慎辨物居方。未完成意味着还有希望，继续努力",
+      "suitable": [
+        "继续",
+        "努力",
+        "坚持",
+        "发展",
+        "完善"
+      ],
+      "avoid": [
+        "放弃",
+        "懈怠",
+        "急躁",
+        "绝望"
+      ]
+    },
+    "wiki": "https://zh.wikipedia.org/wiki/六十四卦#%E6%9C%AA%E6%B5%8E",
+    "reference": "",
+    "notes": "",
+    "seasonal_info": {
+      "season": "夏季",
+      "month": "五月",
+      "time": "巳时(9-11点)",
+      "direction": "东南",
+      "climate": "火水未济"
+    },
+    "five_elements_enhanced": {
+      "upper_trigram": "离",
+      "lower_trigram": "坎",
+      "upper_element": "火",
+      "lower_element": "水",
+      "primary_element": "火",
+      "secondary_element": "水",
+      "element_interaction": "水克火，下制上，变化之象",
+      "element_details": {
+        "primary": {
+          "nature": "炎热、向上、光明、礼貌",
+          "season": "夏季",
+          "direction": "南方",
+          "color": "红色、橙色",
+          "organ": "心、小肠",
+          "emotion": "喜悦、兴奋",
+          "virtue": "礼",
+          "generates": "土",
+          "destroys": "金",
+          "generated_by": "木",
+          "destroyed_by": "水",
+          "characteristics": "主炎热、向上，具有光明、温暖的特性",
+          "applications": "适合表达、展示、庆祝、热情投入的事务"
+        },
+        "secondary": {
+          "nature": "滋润、寒凉、向下、智慧",
+          "season": "冬季",
+          "direction": "北方",
+          "color": "黑色、蓝色",
+          "organ": "肾、膀胱",
+          "emotion": "恐惧、惊慌",
+          "virtue": "智",
+          "generates": "木",
+          "destroys": "火",
+          "generated_by": "金",
+          "destroyed_by": "土",
+          "characteristics": "主滋润、寒凉，具有向下、收藏的特性",
+          "applications": "适合思考、储蓄、休养、积累能量"
+        }
+      }
+    },
+    "modern_applications": {
+      "business": "商业尚未完成，要继续努力",
+      "career": "职场还有发展，要持续奋斗",
+      "investment": "投资还有潜力，要耐心等待",
+      "relationships": "感情还在发展，要继续经营",
+      "education": "学习永无止境，要终身学习",
+      "health": "身体还需调理，要持续保养",
+      "lifestyle": "生活还有希望，要积极向上"
+    }
+  }
+}

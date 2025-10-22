@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/divine/coin",
+      "dest": "/api/divine.py"
+    },
+    {
+      "src": "/api/ai",
+      "dest": "/api/ai.py"
+    },
+    {
+      "src": "/api/hex/(.*)",
+      "dest": "/api/hex.py"
+    },
+    {
+      "src": "/static/(.*)",
+      "dest": "/static/$1"
+    },
+    {
+      "src": "/",
+      "dest": "/api/index.py"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/static/$1"
+    }
+  ]
+}

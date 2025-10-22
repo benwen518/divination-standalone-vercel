@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 算卦</title>
+    <!-- Tailwind CDN for rapid UI alignment -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- LXGW WenKai Screen (handwritten-style Chinese font) -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.7.0/style.css">
+    <!-- Markdown 解析库 -->
+    <script src="https://cdn.jsdelivr.net/npm/marked@9.1.6/marked.min.js"></script>
+    <link rel="stylesheet" href="/static/styles.css">
+    <!-- IChing data for offline interpretation -->
+    <link rel="preload" as="fetch" href="/static/iching_basic.json" crossorigin>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <h1 class="title">AI 算卦</h1>
+            <div class="mode-toggle">
+                <button id="theme-toggle" class="theme-btn">
+                    <svg class="sun-icon" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                        <circle cx="12" cy="12" r="5"/>
+                        <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
+                    </svg>
+                    <svg class="moon-icon" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main">
+        <div class="container">
+            <!-- Question Section -->
+            <section class="question-section">
+                <div class="question-input-wrapper">
+                    <input type="text" id="question-input" class="question-input" placeholder="请输入你想问的问题..." />
+                    <button id="clear-question" class="clear-btn">×</button>
+                </div>
+                <div class="suggested-questions">
+                    <button class="suggestion-btn" data-question="今天运势如何？">今天运势如何？</button>
+                    <button class="suggestion-btn" data-question="今天适合买彩票吗？">今天适合买彩票吗？</button>
+                    <button class="suggestion-btn" data-question="每日一卦">每日一卦</button>
+                    <button class="suggestion-btn" data-question="事业发展">事业发展</button>
+                    <button class="suggestion-btn" data-question="感情状况">感情状况</button>
+                    <button class="suggestion-btn" data-question="财运">财运</button>
+                </div>
+            </section>
+
+            <!-- Divination Section -->
+            <section class="divination-section">
+                <div class="divination-container">
+                    <!-- Coins Section -->
+                    <div class="coins-section">
+                        <div class="coins-grid" id="coins-grid">
+                            <div class="coin-item" data-index="0">
+                                <div class="coin">
+                                    <div class="coin-face coin-front"><img class="coin-img" src="/static/public/img/head.webp" alt="正" /></div>
+                                    <div class="coin-face coin-back"><img class="coin-img" src="/static/public/img/tail.webp" alt="反" /></div>
+                                </div>
+                            </div>
+                            <div class="coin-item" data-index="1">
+                                <div class="coin">
+                                    <div class="coin-face coin-front"><img class="coin-img" src="/static/public/img/head.webp" alt="正" /></div>
+                                    <div class="coin-face coin-back"><img class="coin-img" src="/static/public/img/tail.webp" alt="反" /></div>
+                                </div>
+                            </div>
+                            <div class="coin-item" data-index="2">
+                                <div class="coin">
+                                    <div class="coin-face coin-front"><img class="coin-img" src="/static/public/img/head.webp" alt="正" /></div>
+                                    <div class="coin-face coin-back"><img class="coin-img" src="/static/public/img/tail.webp" alt="反" /></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="divination-info">
+                            <div class="round-info" id="round-info">第 1 爻</div>
+                            <div class="progress-info" id="progress-info">0/6</div>
+                        </div>
+                        <button id="start-divination" class="start-btn">开始摇卦</button>
+                    </div>
+
+                    <!-- Hexagram Section -->
+                    <div class="hexagram-section" id="hexagram-section" style="display: none;">
+                        <div id="hexagram-result-header" class="hexagram-result-header"></div>
+                        <div id="hexagram" class="hexagram-container-horizontal"></div>
+                    </div>
+
+                    <!-- Result Section -->
+                    <section class="result-section" id="result">
+                        <div class="container">
+                            <div class="result-container">
+                                <div class="result-header">
+                                    <h3 id="result-title">卦象结果</h3>
+                                    <span id="result-subtitle">刚刚生成</span>
+                                </div>
+                                <div class="result-content" id="result-content">
+                                    <!-- 结果摘要文案由 script.js 注入 -->
+                                </div>
+                                <a class="result-link" id="result-link" href="#" target="_blank" rel="noopener noreferrer">查看维基释义</a>
+                            </div>
+                            
+                            <!-- 新增：详细释义与统计 -->
+                            <div class="detail-section" id="detailed-result">
+                                <div class="detail-grid">
+                                    <!-- 左列：起卦统计 -->
+                                    <aside class="detail-card">
+                                        <div class="detail-card-header">起卦统计</div>
+                                        <div class="stats-grid">
+                                            <div class="stat-item">
+                                                <div class="stat-label">累计次数</div>
+                                                <div class="stat-value" id="stats-total">0</div>
+                                            </div>
+                                            <div class="stat-item">
+                                                <div class="stat-label">今日次数</div>
+                                                <div class="stat-value" id="stats-today">0</div>
+                                            </div>
+                                        </div>
+                                        <div class="stat-frequent">
+                                            <div class="stat-label">最常出现</div>
+                                            <div class="stat-text" id="stats-frequent">—</div>
+                                        </div>
+                                    </aside>
+                                    
+                                    <!-- 右列：卦辞/爻辞详细释义 -->
+                                    <article class="detail-card explain-content richtext">
+                                        <div class="detail-card-header">详细释义</div>
+                                        <h4>卦辞</h4>
+                                        <p id="judgement-text" class="muted">—</p>
+                                        <h4>象曰</h4>
+                                        <p id="image-text" class="muted">—</p>
+                                        <h4>爻辞</h4>
+                                        <pre id="yao-texts" class="yao-texts">—</pre>
+                                    </article>
+                                </div>
+                                
+                                <!-- 卦象详细信息 -->
+                                <div class="hexagram-details" id="hexagram-details" style="display: none;">
+                                    <!-- 卦象基本信息 -->
+                                    <article class="detail-card explain-content richtext">
+                                        <div class="detail-card-header">卦象基本信息</div>
+                                        <h4>卦名</h4>
+                                        <p id="hexagram-name" class="muted">—</p>
+                                        <h4>别名</h4>
+                                        <p id="hexagram-aliases" class="muted">—</p>
+                                        <h4>五行属性</h4>
+                                        <p id="primary-element" class="muted">—</p>
+                                    </article>
+                                    
+                                    <!-- 运势指导 -->
+                                    <article class="detail-card explain-content richtext">
+                                        <div class="detail-card-header">运势指导 <span id="fortune-overall" class="fortune-badge">—</span></div>
+                                        <h4>总体运势</h4>
+                                        <p id="fortune-general" class="muted">—</p>
+                                        <h4>建议指导</h4>
+                                        <p id="fortune-advice" class="muted">—</p>
+                                    </article>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+
+
+                    <!-- AI Result Section -->
+                    <div class="ai-result-section" id="ai-result-section" style="display: none;">
+                        <div class="loading-indicator" id="loading-indicator">
+                            <svg class="loading-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M21 12a9 9 0 11-6.219-8.56"/>
+                            </svg>
+                            <span>AI 分析中...</span>
+                        </div>
+                        <div class="ai-result-container">
+                            <div id="ai-result-content" class="ai-result-content"></div>
+                            <button id="regenerate-btn" class="regenerate-btn" style="display: none;">
+                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                    <path d="M21 12a9 9 0 11-6.219-8.56"/>
+                                </svg>
+                                重新生成
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p class="motto">心诚则灵</p>
+            <a href="https://github.com/example/divination" target="_blank" class="github-link">
+                GitHub v1.0.0
+            </a>
+        </div>
+    </footer>
+
+    <script src="/static/animate.js"></script>
+    <script src="/static/script.js"></script>
+</body>
+</html>

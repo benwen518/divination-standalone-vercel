@@ -1,0 +1,8 @@
+# Vercel部署所需依赖
+# FastAPI 和相关依赖（用于 app.py 本地开发）
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.0.0
+
+# 注意：Vercel的Python运行时已包含标准库模块
+# API 端点使用标准库，无需额外依赖
